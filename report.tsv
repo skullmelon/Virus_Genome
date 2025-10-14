@@ -1,0 +1,1473 @@
+name	taxID	taxRank	genomeSize	numReads	numUniqueReads	abundance
+Homo sapiens	9606	species	3272089205	6946560	1263884	2.93677e-05
+Vaccinia virus	10245	species	194711	1	1	0.0
+Fowlpox virus	10261	species	288539	5	4	0.0
+Pigeonpox virus	10264	species	282356	6	4	0.0
+Sheeppox virus	10266	species	149955	3	0	0.0
+Rabbit fibroma virus	10271	species	159857	2	2	0.0
+Swinepox virus	10276	species	146454	3	2	0.0
+Choristoneura biennis entomopoxvirus	10288	species	307691	8	3	0.0
+Human alphaherpesvirus 1	10298	species	152222	1	1	0.0
+Human alphaherpesvirus 2	10310	species	154675	1	1	0.0
+Cercopithecine alphaherpesvirus 2	10317	species	150715	1	1	0.0
+Bovine alphaherpesvirus 1	10320	species	135301	1	0	0.0
+Equid alphaherpesvirus 1	10326	species	150224	1	1	0.0
+Equid alphaherpesvirus 4	10331	species	145597	1	1	0.0
+Felid alphaherpesvirus 1	10334	species	135797	1	1	0.0
+Suid alphaherpesvirus 1	10345	species	143461	2	2	0.0
+Human betaherpesvirus 5	10359	species	235646	1	1	0.0
+Equid gammaherpesvirus 5	10371	species	182380	3	3	0.0
+Human betaherpesvirus 7	10372	species	153080	1	1	0.0
+Bovine gammaherpesvirus 4	10385	species	108873	2	2	0.0
+Ictalurid herpesvirus 1	10401	species	134226	1	1	0.0
+Spodoptera frugiperda multiple nucleopolyhedrovirus	10455	species	131331	1	1	0.0
+Spodoptera littoralis nucleopolyhedrovirus	10456	species	137998	2	0	0.0
+Agrotis segetum granulovirus	10464	species	131557	1	1	0.0
+Campoletis sonorensis ichnovirus	10484	species	240596	3	1	0.0
+African swine fever virus	10497	species	181133	2	1	0.0
+Paramecium bursaria Chlorella virus 1	10506	species	330611	4	2	0.0
+Bovine adenovirus 3	10510	leaf	34446	1	0	0.0
+Human adenovirus 2	10515	leaf	35937	1	0	0.0
+Figwort mosaic virus	10649	species	7743	1	1	0.0
+Rice tungro bacilliform virus	10654	species	8002	1	1	0.0
+Enterobacteria phage PRD1	10658	leaf	14927	3	3	0.0
+Myoviridae	10662	family	132960	7	6	0.0
+Tequatrovirus	10663	genus	167288	7	3	0.0
+Escherichia virus P1	10678	species	94800	3	0	0.0
+Bacillus virus PBS1	10683	species	252197	17	1	0.0
+Vibrio phage CP-T1	10689	species	44492	3	3	0.0
+Haemophilus virus HP1	10690	species	32355	3	3	0.0
+Siphoviridae	10699	family	54846	4	3	0.0
+Streptomyces phage VWB	10702	species	49220	2	1	0.0
+Streptomyces virus phiC31	10719	species	41491	1	0	0.0
+Escherichia virus T5	10726	species	121750	1	1	0.0
+Escherichia virus N4	10752	species	70153	3	2	0.0
+Begomovirus	10814	genus	3365	23	23	0.0
+Rice gall dwarf virus	10986	species	25709	1	1	0.0
+Murray Valley encephalitis virus	11079	species	11014	1	1	0.0
+Human respirovirus 3	11216	species	15462	1	0	0.0
+Human orthopneumovirus	11250	species	30447	1	1	0.0
+Mason-Pfizer monkey virus	11855	species	8557	1	1	0.0
+Bean common mosaic virus	12196	species	9992	1	0	0.0
+Turnip mosaic virus	12230	species	9835	1	1	0.0
+Tomato ringspot virus	12280	species	15485	1	1	0.0
+Tobacco rattle virus	12295	species	10646	2	0	0.0
+Cowpea chlorotic mottle virus	12303	species	8118	1	1	0.0
+Clostridium phage c-st	12336	species	185683	1	1	0.0
+Bacillus virus GA1	12345	species	21129	1	1	0.0
+Escherichia phage RB69	12353	leaf	167560	1	0	0.0
+Junonia coenia densovirus	12524	leaf	5908	4	4	0.0
+Equid gammaherpesvirus 2	12657	species	184439	1	1	0.0
+Tomato chlorotic spot virus	12851	leaf	17031	4	0	0.0
+Amsacta moorei entomopoxvirus	28321	species	232392	5	5	0.0
+Mycobacterium virus D29	28369	species	49136	3	0	0.0
+Soil-borne wheat mosaic virus	28375	species	10692	1	1	0.0
+Volepox virus	28874	species	217124	4	3	0.0
+Rotavirus A	28875	species	18562	1	1	0.0
+Anticarsia gemmatalis nucleopolyhedrovirus	31507	species	132239	2	0	0.0
+Pseudomonas virus D3	31535	species	56426	4	1	0.0
+Human coronavirus OC43	31631	leaf	30741	1	1	0.0
+Human betaherpesvirus 6B	32604	species	162114	2	2	0.0
+Lily mottle virus	32624	species	9644	4	4	0.0
+Caviid betaherpesvirus 2	33706	species	233501	1	1	0.0
+Murid gammaherpesvirus 4	33708	species	119451	1	1	0.0
+Halorubrum phage HF2	33771	species	77672	5	0	0.0
+Cercopithecine alphaherpesvirus 9	35246	species	124784	4	4	0.0
+Alcelaphine gammaherpesvirus 1	35252	species	130608	1	1	0.0
+Cryptophlebia leucotreta granulovirus	35254	species	110907	1	1	0.0
+Simbu orthobunyavirus	35306	species	12172	5	1	0.0
+Pseudomonas virus phiCTX	35343	species	35580	1	1	0.0
+Lactobacillus phage JCL1032	37105	species	49433	1	1	0.0
+Human gammaherpesvirus 8	37296	species	137969	1	0	0.0
+Malacosoma neustria nucleopolyhedrovirus	38012	species	130202	3	3	0.0
+Yaba monkey tumor virus	38804	species	134721	3	3	0.0
+Cotesia congregata bracovirus	39640	species	567670	4	3	0.0
+Corriparta virus	40053	species	19093	1	1	0.0
+Orungo virus	40058	species	18894	1	1	0.0
+Listeria phage A500	40522	species	38867	4	2	0.0
+Listeria virus A511	40523	species	137619	3	0	0.0
+Escherichia virus N15	40631	species	46375	1	1	0.0
+Canarypox virus	44088	species	359853	7	7	0.0
+Macacine gammaherpesvirus 4	45455	species	171096	2	2	0.0
+Mycobacterium phage DS6A	45764	species	60588	5	5	0.0
+Acholeplasma virus L2	46014	species	11965	1	1	0.0
+Autographa californica nucleopolyhedrovirus	46015	leaf	133894	3	1	0.0
+Paramecium bursaria Chlorella virus NY2A	46021	species	368683	7	1	0.0
+Spodoptera litura nucleopolyhedrovirus	46242	species	139342	1	1	0.0
+Breda virus	46473	leaf	28475	1	1	0.0
+Macacine betaherpesvirus 3	47929	species	221454	1	1	0.0
+Aotine betaherpesvirus 1	50290	species	219474	2	2	0.0
+Cercopithecine betaherpesvirus 5	50292	species	226084	1	1	0.0
+Helicoverpa armigera nucleopolyhedrovirus	51313	species	131405	2	0	0.0
+Cucurbit yellow stunting disorder virus	51330	species	17099	3	3	0.0
+Xestia c-nigrum granulovirus	51677	species	178733	7	4	0.0
+Microplitis demolitor bracovirus	53988	species	185221	4	4	0.0
+Staphylococcus virus Twort	55510	species	130706	3	3	0.0
+Choristoneura fumiferana granulovirus	56947	species	104710	604	355	0.0
+Bacillus phage Bastille	57477	leaf	153962	1	0	0.0
+Choristoneura rosaceana nucleopolyhedrovirus	58094	species	129052	5	5	0.0
+Ectropis obliqua nucleopolyhedrovirus	59376	species	131204	6	6	0.0
+Anomala cuprea entomopoxvirus	62099	species	245717	7	7	0.0
+Uganda S virus	64297	species	10182	2	2	0.0
+Bacillus virus SPbeta	66797	species	134416	8	8	0.0
+BeAn 58058 virus	67082	species	163005	12	5	0.0
+Wiseana iridescent virus	68347	leaf	205791	1	1	0.0
+Grapevine leafroll-associated virus 4	70177	species	13830	2	2	0.0
+Akabane virus	70566	leaf	12035	1	1	0.0
+Epiphyas postvittana nucleopolyhedrovirus	70600	species	118584	2	2	0.0
+Armadillidium vulgare iridescent virus	72201	leaf	220222	6	5	0.0
+Streptococcus phage TP-J34	73422	species	45606	1	1	0.0
+Vibrio phage KVP40	75320	leaf	244834	28	27	0.0
+Salmonella phage FelixO1	77775	leaf	86155	1	0	0.0
+Streptococcus virus Sfi11	78541	species	39807	2	2	0.0
+Melanoplus sanguinipes entomopoxvirus	83191	species	236120	10	8	0.0
+Ateline gammaherpesvirus 3	85618	species	108409	1	1	0.0
+Mycobacterium phage TM4	88870	leaf	52797	1	0	0.0
+Columbid alphaherpesvirus 1	93386	species	204054	8	0	0.0
+Influenza A virus (A/goose/Guangdong/1/1996(H5N1))	93838	leaf	13590	1	1	0.0
+Heterosigma akashiwo virus 01	97195	species	274793	5	3	0.0
+Enterobacteria phage ES18	101570	species	46900	3	0	0.0
+Thysanoplusia orichalcea nucleopolyhedrovirus	101850	species	132978	2	2	0.0
+Enterobacteria phage phiP27	103807	species	42575	3	3	0.0
+Bovine adenovirus 6	111167	leaf	30024	2	2	0.0
+Natrialba phage PhiCh1	114777	species	58498	1	1	0.0
+Vibrio phage nt-1	115992	leaf	247511	68	61	0.0
+Streptococcus phage MM1	120574	species	40248	10	8	0.0
+Tomato yellow leaf curl Sardinia virus	123735	species	2773	1	0	0.0
+Vibrio phage VfO3K6	127507	leaf	8784	2	0	0.0
+Vibrio phage VfO4K68	127508	species	6891	2	0	0.0
+Pseudocowpox virus	129726	species	145289	6	4	0.0
+Bovine papular stomatitis virus	129727	species	134431	2	0	0.0
+Bovine mastadenovirus B	129950	species	34446	1	0	0.0
+Human mastadenovirus C	129951	species	35958	1	0	0.0
+Duck atadenovirus A	130328	species	66426	2	0	0.0
+Yaba-like disease virus	132475	leaf	144575	3	3	0.0
+Roseobacter virus SIO1	136084	species	39898	2	2	0.0
+Alcelaphine gammaherpesvirus 2	138184	species	137090	1	1	0.0
+Elephantid betaherpesvirus 1	146015	species	180421	1	1	0.0
+Helicoverpa armigera nucleopolyhedrovirus G4	148363	leaf	131405	2	0	0.0
+Lactococcus phage bIL285	151535	species	35538	1	1	0.0
+Lactococcus phage bIL312	151539	species	15179	2	2	0.0
+Macacine gammaherpesvirus 5	154334	species	133719	2	2	0.0
+Salmonella virus HK620	155148	species	38297	1	0	0.0
+Oat mosaic virus	157837	species	9834	1	0	0.0
+Sulfolobus islandicus rod-shaped virus 1	157898	species	32308	5	1	0.0
+Sulfolobus islandicus rod-shaped virus 2	157899	species	35450	3	0	0.0
+Diadromus pulchellus ascovirus 4a	158683	leaf	119343	4	4	0.0
+Sathuperi orthobunyavirus	159141	species	12034	1	1	0.0
+Utinga virus	159144	leaf	12253	1	1	0.0
+Shamonda orthobunyavirus	159150	species	12104	30	17	0.0
+Skunkpox virus	160796	species	222832	1	1	0.0
+Epinotia aporema granulovirus	166056	species	119082	2	1	0.0
+Human endogenous retrovirus K113	166122	leaf	9472	107	2	0.0
+Lymantria xylina nucleopolyhedrovirus	166921	species	156344	2	2	0.0
+Pseudomonas virus phiKZ	169683	species	280334	21	21	0.0
+Canid alphaherpesvirus 1	170325	species	125171	4	4	0.0
+Yersinia phage PY54	172667	species	46339	3	3	0.0
+Salmonella virus ST64T	173443	species	40679	5	2	0.0
+Salmonella phage ST64B	175950	species	40149	28	0	0.0
+Invertebrate iridescent virus 6	176652	species	212482	5	4	0.0
+Sinorhizobium phage PBC5	179237	species	57416	1	1	0.0
+Cyprinid herpesvirus 3	180230	species	295146	4	4	0.0
+Melon chlorotic mosaic virus	180399	species	5235	31925	31907	0.0
+Burkholderia virus phiE125	180504	species	53373	3	3	0.0
+Emiliania huxleyi virus 86	181082	species	407339	3	3	0.0
+Vibrio phage VSK	181604	leaf	6882	3	3	0.0
+Culex pipiens densovirus	185638	leaf	5759	1	1	0.0
+Aquareovirus C	185782	species	23696	1	1	0.0
+Fromanvirus	186764	genus	51753	7	7	0.0
+Lederbergvirus	186794	genus	41941	3	0	0.0
+Escherichia virus K1-5	187764	species	44385	1	0	0.0
+Panine betaherpesvirus 2	188763	species	241087	3	3	0.0
+Phthorimaea operculella granulovirus	192584	species	119217	1	1	0.0
+Bordetella virus BPP1	194699	species	42493	15	15	0.0
+Vibrio virus VpV262	194802	species	46012	1	1	0.0
+Potato yellow dwarf nucleorhabdovirus	195060	species	12875	1	1	0.0
+Enterobacteria phage BP-4795	196242	species	57930	1	0	0.0
+Pseudomonas phage 201phi2-1	198110	species	316674	2	2	0.0
+Mamestra configurata nucleopolyhedrovirus B	204440	species	158482	1	0	0.0
+Neodiprion abietis NPV	204507	species	84264	5	4	0.0
+Mycobacterium virus Che9c	205872	species	57050	3	0	0.0
+Mycobacterium virus Corndog	205875	species	69777	1	0	0.0
+Cypovirus 5	205899	species	24818	4	4	0.0
+Luffa yellow mosaic virus	207240	species	5455	1	1	0.0
+Bovine foamy virus	207343	species	12002	1	1	0.0
+Bacillus phage phiNIT1	207656	leaf	155631	2	0	0.0
+Mamestra configurata nucleopolyhedrovirus A	207830	species	155060	2	1	0.0
+Acanthamoeba polyphaga mimivirus	212035	species	1181549	39	21	0.0
+Lactococcus virus 712	213769	species	30510	1	0	0.0
+Salmonella phage epsilon15	215158	leaf	39672	9	6	0.0
+Tomato leaf curl Karnataka virus	220932	species	2759	1	0	0.0
+Enterobacteria phage ST104	221029	species	41391	3	3	0.0
+Staphylococcus virus K	221915	species	148317	1	0	0.0
+Halovirus HF1	222645	species	75898	5	0	0.0
+Tomato mosaic Havana virus-[Quivican]	223357	leaf	5206	1	1	0.0
+Adoxophyes honmai nucleopolyhedrovirus	224399	species	113220	1	1	0.0
+Aeromonas virus Aeh1	227470	species	233234	6	5	0.0
+Strawberry pallidosis-associated virus	227507	species	16044	1	0	0.0
+Tomato yellow leaf curl Axarquia virus	232380	species	2771	1	0	0.0
+Aeromonas virus 25	233894	species	161475	3	3	0.0
+Lactobacillus virus phiJL1	235201	species	36674	1	1	0.0
+Synechococcus phage S-PM2	238854	species	196280	4	2	0.0
+Tomato yellow leaf curl China alphasatellite	240557	species	1369	1	0	0.0
+Burkholderia virus Bcep22	242527	species	63882	20	12	0.0
+Calicivirus isolate TCG	243550	species	7453	6	6	0.0
+Burkholderia virus Bcep1	244310	species	48177	4	4	0.0
+Cryphonectria hypovirus 4	245101	species	9149	1	1	0.0
+Phaeocystis globosa virus	251749	species	459984	12	9	0.0
+Opuntia virus X	253702	species	6653	5	5	0.0
+Burkholderia virus phi1026b	255131	species	54865	4	4	0.0
+Lymphocystis disease virus - isolate China	256729	species	186250	2	2	0.0
+Aeromonas virus 65	260149	species	235229	8	7	0.0
+Heliothis virescens ascovirus 3e	260797	leaf	186262	11	0	0.0
+Ostreid herpesvirus 1	261939	species	207439	1	1	0.0
+Clostridium virus phiC2	262071	species	56538	2	0	0.0
+Orgyia pseudotsugata multiple nucleopolyhedrovirus	262177	species	131995	3	3	0.0
+Singapore grouper iridovirus	262968	species	140131	3	3	0.0
+Possum enterovirus W1	263531	leaf	7390	1	1	0.0
+Bougainvillea chlorotic vein banding virus	263892	species	8759	1	1	0.0
+Hyposoter fugitivus ichnovirus	265522	species	246092	1	1	0.0
+Prochlorococcus phage P-SSM2	268746	species	252401	2	2	0.0
+Prochlorococcus phage P-SSM4	268747	species	178249	6	6	0.0
+Bombyx mori nucleopolyhedrovirus	271108	species	128413	2	0	0.0
+Pseudomonas phage EL	273133	leaf	211215	3	3	0.0
+Acinetobacter virus 133	279006	species	159801	5	5	0.0
+Burkholderia virus BcepC6B	279280	species	42415	18	13	0.0
+Actinoplanes phage phiAsp2	279303	species	58638	1	1	0.0
+Pseudomonas virus F116	280701	species	65195	4	2	0.0
+Amasya cherry disease associated chrysovirus	284687	species	11858	3	3	0.0
+Sulfolobus virus STSV1	285013	species	75294	3	1	0.0
+Human coronavirus HKU1	290028	species	29926	1	1	0.0
+Escherichia phage JS98	293178	leaf	170523	1	1	0.0
+Salmonella phage SS3e	293644	leaf	40793	1	0	0.0
+Flavobacterium phage 11b	294631	species	36012	4	4	0.0
+Acidianus filamentous virus 2	300186	species	31787	1	0	0.0
+Deerpox virus W-848-83	305674	leaf	166259	3	2	0.0
+Erinnyis ello granulovirus	307444	species	102759	1	1	0.0
+Euproctis pseudoconspersa nucleopolyhedrovirus	307467	species	141291	2	0	0.0
+Staphylococcus phage 812	307898	species	142096	1	0	0.0
+Cyprinid herpesvirus 1	317858	species	291144	2	1	0.0
+Cyprinid herpesvirus 2	317878	species	290304	5	3	0.0
+Kotonkan virus	318836	leaf	15867	1	1	0.0
+Gordonia phage GTE5	319522	species	65839	1	1	0.0
+Chrysodeixis chalcites nucleopolyhedrovirus	320432	species	149622	1	1	0.0
+Staphylococcus virus 71	320844	species	43114	1	0	0.0
+Staphylococcus virus 52a	320847	species	41690	7	0	0.0
+Staphylococcus virus 88	320848	species	43231	1	0	0.0
+Staphylococcus virus 92	320849	species	42431	1	0	0.0
+Tellina virus 1	321302	leaf	6396	2	2	0.0
+Xanthomonas phage Xp15	322855	species	55770	2	2	0.0
+Heliothis virescens ascovirus 3f	328614	leaf	198157	1	1	0.0
+Trichoplusia ni ascovirus 2c	328615	species	174059	3	3	0.0
+Escherichia virus RB16	329381	species	176788	1	0	0.0
+Listeria virus P100	330395	species	135281	6	3	0.0
+Listeria phage A006	330399	species	38124	1	0	0.0
+Yersinia phage phiR1-37	331278	species	262391	6	6	0.0
+Burkholderia virus phi52237	332032	species	37639	3	0	0.0
+Trichoplusia ni single nucleopolyhedrovirus	332054	species	134394	1	1	0.0
+Chimpanzee herpesvirus strain 105640	332937	leaf	153158	1	0	0.0
+Turkeypox virus	336486	species	188534	2	2	0.0
+Human papillomavirus type 88	337054	leaf	7326	1	1	0.0
+Micromonas pusilla reovirus	338781	species	25563	1	1	0.0
+Microcystis virus Ma-LMM01	340435	species	162109	2	0	0.0
+Papiine alphaherpesvirus 2	340907	species	156487	1	1	0.0
+White spot syndrome virus	342409	species	309286	5	3	0.0
+Escherichia phage phiV10	343516	leaf	39104	1	0	0.0
+Escherichia virus K1E	344022	species	45251	1	0	0.0
+Invertebrate iridescent virus 3	345201	species	191100	3	3	0.0
+Invertebrate iridescent virus 30	345585	species	198533	1	1	0.0
+Acidianus filamentous virus 6	346882	species	39577	1	1	0.0
+Pseudomonas phage F10	347324	species	39199	2	2	0.0
+Pseudomonas phage 73	347325	leaf	42999	5	0	0.0
+Pseudomonas phage PA11	347327	species	49639	4	4	0.0
+Salmonella phage epsilon34	348058	species	43016	1	0	0.0
+Burkholderia phage Bcep176	348137	species	44856	1	1	0.0
+Lactococcus phage P335 sensu lato	354260	species	36596	1	1	0.0
+Spodoptera litura granulovirus	359919	species	124121	1	1	0.0
+Streptomyces phage mu1/6	370623	species	38194	1	1	0.0
+Mycobacterium phage Catera	373404	leaf	153766	1	0	0.0
+Mycobacterium phage Cooper	373406	leaf	70654	1	1	0.0
+Mycobacterium phage Wildcat	373415	leaf	78296	1	1	0.0
+Lumpy skin disease virus NI-2490	376849	leaf	150773	4	1	0.0
+Goatpox virus Pellor	376852	leaf	149599	5	3	0.0
+Glossina pallidipes salivary gland hypertrophy virus	379529	leaf	190032	3	3	0.0
+Paramecium bursaria Chlorella virus AR158	380598	species	344691	10	4	0.0
+Prochlorococcus phage P-SSP3	382273	species	46198	1	1	0.0
+Synechococcus phage syn9	382359	species	177300	1	0	0.0
+Lactococcus phage Q54	382685	species	26537	1	1	0.0
+Corynebacterium phage P1201	384848	leaf	70579	2	2	0.0
+Ranid herpesvirus 2	389214	species	231801	1	1	0.0
+Escherichia phage V5	399183	leaf	137947	1	0	0.0
+Paramecium bursaria Chlorella virus FR483	399781	leaf	321240	40	40	0.0
+Blackberry yellow vein-associated virus	404196	species	15716	2	2	0.0
+Staphylococcus virus 80	405947	species	42140	7	0	0.0
+Thermus phage phiYS40	407392	species	152372	1	0	0.0
+Streptococcus phage phi3396	423476	species	38528	1	1	0.0
+Salmonella phage Vi II-E1	424716	species	45051	1	1	0.0
+Burkholderia virus phi6442	431891	species	48674	4	4	0.0
+Burkholderia virus phiE202	431893	species	35741	3	0	0.0
+Gryllus bimaculatus nudivirus	432587	species	96944	2	1	0.0
+Brevicoryne brassicae virus - UK	436447	leaf	10180	1	1	0.0
+Burkholderia phage BcepGomr	437329	species	52414	1	1	0.0
+Acidianus bottle-shaped virus	437444	species	23814	1	1	0.0
+Mycobacterium phage Tweety	439809	leaf	58692	2	2	0.0
+Enterococcus phage EF24C	442493	leaf	142072	10	2	0.0
+Synechococcus phage S-SM1	444859	species	174079	6	4	0.0
+Synechococcus phage S-SM2	444860	species	190789	4	4	0.0
+Prochlorococcus phage Syn1	444861	species	191195	1	1	0.0
+Prochlorococcus phage P-RSM4	444862	species	176428	2	2	0.0
+Cyanophage 9515-10a	444875	species	47055	4	4	0.0
+Cyanophage P-SSP2	444876	species	45890	4	4	0.0
+Prochlorococcus phage Syn33	444878	species	174285	2	1	0.0
+Synechococcus phage S-ShM2	445683	species	179563	3	3	0.0
+Synechococcus phage S-SSM5	445685	species	176184	3	3	0.0
+Synechococcus phage S-SSM7	445686	species	232878	3	3	0.0
+Prochlorococcus phage P-SSM7	445688	species	182180	2	1	0.0
+Cyanophage NATL2A-133	445692	species	47536	1	1	0.0
+Prochlorococcus phage P-HM2	445696	species	183806	2	2	0.0
+Prochlorococcus phage P-HM1	445700	species	181044	1	1	0.0
+Microbacterium phage Min1	446529	leaf	46365	4	4	0.0
+Mythimna unipuncta nucleopolyhedrovirus	447897	species	148482	7	5	0.0
+Geobacillus virus E2	447909	species	40863	2	2	0.0
+Salmonella phage Det7	454798	leaf	157498	3	0	0.0
+Chrysochromulina ericina virus	455364	species	473558	16	16	0.0
+Bacillus phage 0305phi8-36	458639	species	218948	2	2	0.0
+Synechococcus phage S-CBP42	461711	species	45218	1	1	0.0
+Canis familiaris papillomavirus 4	464980	leaf	7742	1	1	0.0
+Azospirillum phage Cd	467481	species	62337	1	1	0.0
+Phikmvvirus	477967	genus	42922	2	2	0.0
+Mycobacterium phage Giles	480808	leaf	53746	1	1	0.0
+Pseudomonas virus LUZ24	484895	species	45625	2	2	0.0
+Staphylococcus virus phiMR25	487152	species	44342	1	0	0.0
+Anopheles gambiae densovirus	487311	leaf	4139	1	1	0.0
+Helicoverpa armigera granulovirus	489830	species	169794	3	0	0.0
+Escherichia virus phiEco32	490103	species	77554	3	0	0.0
+Orgyia leucostigma nucleopolyhedrovirus	490711	species	156179	7	6	0.0
+Silicibacter phage DSS3phi2	490912	species	74611	3	3	0.0
+Sulfitobacter phage EE36phi1	490913	species	73325	4	4	0.0
+Escherichia virus EPS7	491003	species	111382	1	0	0.0
+Lactobacillus phage Lrm1	496874	species	39989	1	1	0.0
+Rat coronavirus Parker	502102	leaf	31250	2	2	0.0
+Pseudomonas phage PAJU2	504346	species	46872	1	1	0.0
+Musca domestica salivary gland hypertrophy virus	523909	leaf	124279	2	1	0.0
+Cyanophage P-RSM1	536444	species	177211	6	6	0.0
+Prochlorococcus phage P-SSM3	536453	species	179063	1	1	0.0
+Synechococcus phage S-SSM4	536466	species	182801	2	2	0.0
+Cyanophage Syn30	536474	species	178807	73	71	0.0
+Stygiolobus rod-shaped virus	537009	species	28096	2	2	0.0
+Streptococcus phage PH15	537874	species	39136	1	1	0.0
+Mycobacterium virus Boomer	546182	species	58037	2	0	0.0
+Mycobacterium phage Myrna	546805	species	164602	30	30	0.0
+Elephant endotheliotropic herpesvirus 4	548914	species	205896	1	1	0.0
+Iodobacter phage PhiPLPE	551895	leaf	47453	4	4	0.0
+Synechococcus phage S-RSM4	555387	species	194454	214	182	0.0
+Mycobacterium phage Solon	555603	leaf	49487	2	0	0.0
+Erwinia phage phiEa21-4	557393	leaf	84576	1	0	0.0
+Cucurbit chlorotic yellows virus	558690	species	16648	1	1	0.0
+Clostridium virus phiCD27	559189	species	50930	2	1	0.0
+Clerodendrum golden mosaic China virus	559878	species	5515	2	0	0.0
+Mycobacterium virus Brujita	561996	species	47057	3	0	0.0
+Mycobacterium virus Pacc40	563122	species	58554	1	0	0.0
+Stx2-converting phage 1717	563769	species	62147	1	0	0.0
+Spodoptera litura nucleopolyhedrovirus II	566270	species	148634	3	3	0.0
+Feline papillomavirus type 2	568209	leaf	7899	1	1	0.0
+Bulbul coronavirus HKU11-934	572288	leaf	26487	1	1	0.0
+Vibrio phage henriette 12B8	573174	species	107218	2	1	0.0
+Stenotrophomonas phage S1	573591	species	40287	3	3	0.0
+Lactobacillus phage Lv-1	578234	species	38934	1	1	0.0
+Cyanophage SS120-1	616674	species	46997	1	1	0.0
+Monkeypox virus Zaire-96-I-16	619591	leaf	196858	1	1	0.0
+Okra mottle virus	619599	species	5313	2	2	0.0
+Duck astrovirus C-NGB	622438	leaf	7722	1	1	0.0
+Avian avulavirus 8	623144	species	15342	1	1	0.0
+Lactobacillus virus Lb338-1	632112	species	142111	1	1	0.0
+Halorubrum pleomorphic virus 1	634168	leaf	7048	1	1	0.0
+Shigella phage Ag3	637730	leaf	158006	4	4	0.0
+Human bocavirus 3	638313	leaf	5242	1	0	0.0
+Lactococcus phage P087	641487	species	60074	1	1	0.0
+Ostreococcus tauri virus 1	642926	species	191761	3	1	0.0
+Streptococcus phage PH10	644007	species	31276	64	64	0.0
+Burkholderia virus Bcepil02	644524	species	62715	4	1	0.0
+Streptococcus phage 5093	646413	species	37184	5	5	0.0
+Penguinpox virus	648998	species	306862	2	1	0.0
+Cyanophage PSS2	658401	species	107530	2	2	0.0
+Chilli leaf curl Multan alphasatellite	661505	species	1369	1	0	0.0
+Enterococcus phage phiEf11	663241	species	42822	2	1	0.0
+Mycobacterium virus Peaches	663557	species	51376	1	0	0.0
+Delftia phage PhiW-14	665032	leaf	157486	1	1	0.0
+Enterococcus phage phiFL1A	673832	leaf	38764	1	0	0.0
+Bixzunavirus	680114	genus	155226	6	2	0.0
+Torque teno virus 5	687344	species	3229	1	1	0.0
+Cyanophage S-RIM50	687803	species	174307	34	4	0.0
+Rhodococcus phage ReqiPine5	691963	species	59231	2	2	0.0
+Rhodococcus phage ReqiPoco6	691964	leaf	78064	5	3	0.0
+Rhodococcus phage ReqiPepy6	691965	leaf	76797	4	2	0.0
+Rhodococcus phage ReqiDocB7	691966	species	75772	1	1	0.0
+Cafeteria roenbergensis virus BV-PW1	693272	leaf	617453	23	21	0.0
+Severe acute respiratory syndrome-related coronavirus	694009	species	29856	61127	61115	0.626417
+Marseillevirus marseillevirus	694581	species	368454	3	1	0.0
+Ostreococcus tauri virus 2	696472	species	184409	5	2	0.0
+Enterobacteria phage IME08	697227	leaf	172253	3	3	0.0
+Escherichia phage K1-dep(4)	698486	leaf	43587	3	0	0.0
+Escherichia phage K1-dep(1)	698487	leaf	41632	3	0	0.0
+Escherichia phage K1-ind(2)	698489	leaf	42765	4	0	0.0
+Thermus phage TMA	699370	species	151483	2	1	0.0
+Klebsiella phage KP15	707757	leaf	174436	3	0	0.0
+Enterobacter phage CC31	709484	leaf	165540	1	0	0.0
+Campylobacter virus CP220	722417	species	177534	2	0	0.0
+Campylobacter virus CPt10	722418	species	175720	9	6	0.0
+Duranta leaf curl virus	742163	species	2759	1	0	0.0
+Deep-sea thermophilic phage D6E	749413	species	49335	5	5	0.0
+Synechococcus phage S-CAM1	754037	species	198013	5	5	0.0
+Synechococcus phage S-CAM8	754038	species	171407	1	1	0.0
+Synechococcus phage S-IOM18	754039	species	171797	6	3	0.0
+Synechococcus phage S-RIP2	754040	species	45728	3	3	0.0
+Synechococcus phage S-SKS1	754042	species	208007	9	9	0.0
+Sulfitobacter phage pCB2047-C	754043	species	40931	5	5	0.0
+Sulfitobacter phage pCB2047-A	754045	species	40929	1	0	0.0
+Sulfitobacter phage phiCB2047-B	754046	species	74485	3	2	0.0
+Aeromonas phage pIS4-A	754050	leaf	47624	1	1	0.0
+Pseudoalteromonas phage pYD6-A	754052	species	76802	8	6	0.0
+Vibrio phage PWH3a-P1	754058	species	129155	1	1	0.0
+Synechococcus phage S-CBP4	754059	species	44147	1	1	0.0
+Ostreococcus lucimarinus virus OlV5	754064	species	186468	13	12	0.0
+Halorubrum phage CGphi46	754066	species	39784	1	0	0.0
+Vibrio phage VBP32	754072	species	76718	1	1	0.0
+Vibrio phage VBP47	754073	species	76705	6	4	0.0
+Vibrio phage 11895-B1	754075	species	126434	1	1	0.0
+Micromonas pusilla virus 12T	755272	species	205622	5	5	0.0
+Synechococcus phage S-CBP2	756277	species	46237	24	0	0.0
+Cellulophaga phage phiSM	756280	species	44557	1	0	0.0
+Cellulophaga phage phiST	756282	leaf	79114	5	5	0.0
+Barbel circovirus	759938	species	1957	1	1	0.0
+Staphylococcus phage G15	760530	leaf	139806	1	0	0.0
+Acinetobacter phage Acj61	760732	species	164093	13	9	0.0
+Acinetobacter phage Acj9	760939	species	169947	21	18	0.0
+Acinetobacter phage Ac42	762660	species	167716	6	5	0.0
+Pigeon adenovirus 1	764030	leaf	45480	1	1	0.0
+Brochothrix phage BL3	764562	species	41518	1	1	0.0
+Bacillus phage W.Ph.	764595	leaf	156897	1	1	0.0
+Elephant endotheliotropic herpesvirus 5	768738	species	180800	1	1	0.0
+Brochothrix phage A9	857312	leaf	127065	5	1	0.0
+Mycobacterium virus Angelica	861044	species	59598	1	1	0.0
+Trichodysplasia spinulosa-associated polyomavirus	862909	leaf	5232	1	0	0.0
+Bat coronavirus BM48-31/BGR/2008	864596	species	29276	8	3	0.0
+Salmonella phage Vi06	866889	species	38368	1	1	0.0
+Synechococcus phage S-RIM2 R1_1999	869662	species	175430	10	4	0.0
+Synechococcus phage S-RIM8 A.HR1	869724	species	171211	19	10	0.0
+Clostridium phage phiCTP1	871584	species	59199	3	2	0.0
+Staphylococcus virus SAP26	872294	species	41207	7	0	0.0
+Aeromonas phage phiAS4	879628	leaf	163875	1	1	0.0
+Aeromonas phage phiAS5	879630	species	225268	27	19	0.0
+Ostreococcus lucimarinus virus 1	880162	species	194022	81	0	0.0
+Lactococcus phage 949	881953	species	114768	1	1	0.0
+Salmonella phage PVPSE1	889338	leaf	145964	2	0	0.0
+Colobus guereza papillomavirus 2	889813	leaf	7686	1	1	0.0
+Prochlorococcus phage MED4-213	889956	species	180977	1	1	0.0
+Escherichia phage HK639	906669	species	49576	1	1	0.0
+Flavobacterium phage FCL-2	908819	leaf	47142	2	1	0.0
+Burkholderia phage KS5	910473	species	37236	1	1	0.0
+Human papillomavirus 121	915429	leaf	7342	1	1	0.0
+Erwinia phage phiEt88	925984	species	47279	8	7	0.0
+Erwinia phage phiEa104	925986	leaf	84565	1	0	0.0
+Simian Agent 10	929831	leaf	15462	1	0	0.0
+Cyanophage P-RSM6	929832	species	192497	3	2	0.0
+Cotia virus SPAn232	930275	leaf	185139	10	3	0.0
+Campylobacter virus NCTC12673	934027	species	135041	2	0	0.0
+Riemerella phage RAP44	936152	species	49329	3	3	0.0
+California sea lion adenovirus 1	943083	leaf	31709	1	1	0.0
+Edwardsiella phage eiAU	945083	leaf	43015	3	0	0.0
+Puniceispirillum phage HMO-2011	948071	species	55282	3	3	0.0
+Enterobacteria phage phi92	948870	species	148612	4	4	0.0
+Enterococcus phage EF62phi	977801	species	30505	1	0	0.0
+Salmonella virus SPC35	977927	species	118351	2	0	0.0
+Vibrio phage ICP1	979525	species	125956	1	1	0.0
+Cronobacter phage ENT47670	984186	species	47611	1	1	0.0
+Pseudomonas phage phi15	988656	species	39562	2	2	0.0
+Campylobacter virus CP81	990550	species	132454	8	7	0.0
+Rotavirus F chicken/03V0568/DEU/2003	994994	leaf	18341	1	0	0.0
+Pseudomonas phage PhiPA3	998086	species	309208	17	10	0.0
+Lausannevirus	999883	species	346754	8	8	0.0
+Shigella virus Shfl1	1002724	species	50661	1	0	0.0
+Salmonella virus iEPS5	1005056	species	59254	2	0	0.0
+Groundnut ringspot and Tomato chlorotic spot virus reassortant	1027232	species	16791	4	0	0.0
+Erwinia phage phiEaH2	1029988	leaf	243050	2	1	0.0
+Clostridium phage phiCD38-2	1032362	species	41090	2	0	0.0
+Bean necrotic mosaic virus	1033976	species	16510	1	1	0.0
+Flavobacterium phage FCV-1	1033977	leaf	46450	3	2	0.0
+Fig badnavirus 1	1034096	species	7140	4	3	0.0
+Mycobacterium virus Hammer	1034103	species	51889	2	0	0.0
+Mycobacterium virus Littlee	1034111	species	109086	1	0	0.0
+Mycobacterium virus Faith1	1034125	species	75960	2	0	0.0
+Mycobacterium virus Backyardigan	1034129	species	51308	1	0	0.0
+Mycobacterium virus Gladiator	1034135	species	52213	1	0	0.0
+Mycobacterium virus Yoshi	1034150	species	58714	3	3	0.0
+Mycobacterium phage ShiLan	1036616	leaf	59794	3	3	0.0
+Clostridium phage phiCP13O	1042122	species	38329	3	2	0.0
+Clostridium phage phiCP34O	1042123	species	38309	1	0	0.0
+West African Asystasia virus 1	1046573	species	5388	1	0	0.0
+Escherichia phage EB49	1048207	leaf	47180	1	1	0.0
+Acinetobacter phage ZZ1	1049283	species	166687	2	2	0.0
+Mycobacterium virus Doom	1051138	species	51421	6	1	0.0
+Streptococcus phage YMC-2011	1051631	species	40758	3	3	0.0
+Mycobacterium phage Oline	1052671	leaf	68720	1	1	0.0
+Salmonella phage 7-11	1054968	species	89916	1	0	0.0
+Mycobacterium phage Charlie	1056830	leaf	43036	1	0	0.0
+Mycobacterium virus Larva	1056831	species	62991	2	1	0.0
+Mycobacterium phage Wile	1056833	species	51308	1	0	0.0
+Enterococcus phage SAP6	1073766	leaf	58619	1	0	0.0
+Cronobacter virus Esp2949-1	1073767	species	49116	1	0	0.0
+Mycobacterium virus Drago	1074303	species	54411	1	0	0.0
+Mycobacterium phage Dandelion	1074305	leaf	157568	6	0	0.0
+Mycobacterium phage Patience	1074308	leaf	70506	3	3	0.0
+Mycobacterium phage BigNuz	1074309	leaf	48984	2	0	0.0
+Yokapox virus	1076255	species	175699	3	3	0.0
+Mycobacterium phage Jebeks	1076631	leaf	45580	2	0	0.0
+Vibrio phage phiVC8	1076759	leaf	39422	1	1	0.0
+Synechococcus phage ACG-2014c	1079998	species	176043	5	1	0.0
+Bacillus virus G	1084719	species	497513	27	27	0.0
+Mycobacterium virus Rumpelstiltskin	1086751	species	69279	2	0	0.0
+Salmonella phage vB_SenM-S16	1087482	leaf	160221	10	0	0.0
+Mycobacterium phage Nappy	1088866	leaf	156646	6	0	0.0
+Mycobacterium virus Babsiella	1089115	species	48420	1	0	0.0
+Mycobacterium virus Billknuckles	1089116	species	51821	1	0	0.0
+Mycobacterium phage Blue7	1089117	species	52288	2	0	0.0
+Mycobacterium phage Dori	1089121	species	64613	3	3	0.0
+Mycobacterium virus Firecracker	1089135	species	71341	1	0	0.0
+Salmonella phage SPN3US	1090134	leaf	240413	2	2	0.0
+Mycobacterium virus Dotproduct	1097752	species	55363	2	0	0.0
+Mycobacterium virus Saintus	1097754	species	49228	2	0	0.0
+Gordonia phage GTE7	1100814	leaf	74431	1	1	0.0
+Rhodococcus phage REQ3	1109714	species	39474	1	1	0.0
+Rhodococcus phage RER2	1109715	leaf	46586	3	0	0.0
+Rhodococcus virus RGL3	1109716	species	48072	3	0	0.0
+Rhodococcus phage RRH1	1109717	species	14270	1	1	0.0
+Campylobacter virus CPX	1110702	species	132662	5	1	0.0
+Pectobacterium phage phiTE	1116482	leaf	142349	6	2	0.0
+Bacillus phage phIS3501	1124578	species	44401	1	0	0.0
+Escherichia phage TL-2011b	1124654	species	44784	1	0	0.0
+Pseudomonas phage OBP	1124849	species	284757	4	3	0.0
+Salmonella phage SPN1S	1125653	leaf	38684	3	0	0.0
+Bacillus phage BCP78	1126950	leaf	156176	7	5	0.0
+Aeromonas phage vB_AsaM-56	1127514	leaf	43551	4	4	0.0
+Bdellovibrio phage phi1422	1127515	species	45354	2	2	0.0
+Pectobacterium phage ZF40	1127516	species	48454	2	0	0.0
+Helicoverpa zea nudivirus 2	1128424	leaf	231621	5	5	0.0
+Pseudomonas phage phi297	1129145	species	49135	6	5	0.0
+Pseudomonas virus PMG1	1129146	species	54024	14	2	0.0
+Klebsiella phage KP27	1129147	leaf	174413	4	1	0.0
+Klebsiella phage KP36	1129191	leaf	49797	3	3	0.0
+Erwinia phage PEp14	1131315	species	60714	2	2	0.0
+Escherichia phage FV3	1131317	leaf	136947	3	0	0.0
+Brucella phage Tb	1133292	leaf	41148	4	0	0.0
+Brucella phage Pr	1133293	leaf	38253	4	0	0.0
+Burkholderia virus DC1	1136535	species	61847	10	2	0.0
+Bacillus phage BPS13	1136731	leaf	158305	2	0	0.0
+Cyanophage S-TIM5	1137745	species	161440	1	1	0.0
+Cachoeira Porteira virus	1138490	leaf	12560	1	1	0.0
+Cronobacter phage vB_CsaM_GAP31	1141135	leaf	147940	3	2	0.0
+Cronobacter phage vB_CsaM_GAP32	1141136	species	358663	112	100	0.0
+Cronobacter phage vB_CsaP_GAP52	1141137	species	76631	3	3	0.0
+Cronobacter phage vB_CsaM_GAP161	1141138	species	178193	1	1	0.0
+Escherichia phage vB_Eco_ACG-M12	1141140	leaf	46054	1	1	0.0
+Pseudomonas phage vB_Pae-Kakheti25	1141526	leaf	42844	5	0	0.0
+Staphylococcus phage StB12	1147042	species	44714	2	2	0.0
+Staphylococcus phage StB27	1147044	species	40071	2	2	0.0
+Klebsiella phage vB_KleM_RaK2	1147094	leaf	345809	6	2	0.0
+Mycobacterium phage Spartacus	1147141	leaf	61164	1	0	0.0
+Escherichia phage HK633	1147147	leaf	41528	1	0	0.0
+Enterobacteria phage vB_EcoS_Rogue1	1147155	leaf	45805	1	1	0.0
+Enterobacterial phage mEp390	1147158	species	40029	1	0	0.0
+Vibrio phage pVp-1	1150989	leaf	111506	8	0	0.0
+Enterobacter phage Enc34	1150990	species	60496	1	1	0.0
+Sphingomonas phage PAU	1150991	species	219372	8	8	0.0
+Haloarcula hispanica icosahedral virus 2	1154689	species	30578	1	1	0.0
+Southern elephant seal virus	1159195	species	11245	1	1	0.0
+Pseudomonas phage Lu11	1161927	species	280538	1	1	0.0
+Agrobacterium phage 7-7-1	1161931	species	69391	1	1	0.0
+Mycobacterium phage Twister	1161933	leaf	51094	1	0	0.0
+Salinivibrio phage CW02	1161935	species	49390	15	15	0.0
+Cronobacter phage CR9	1162290	leaf	151924	59	42	0.0
+Cronobacter phage CR3	1162295	leaf	149273	2	0	0.0
+Nonlabens phage P12024S	1168478	leaf	35700	2	2	0.0
+Nonlabens phage P12024L	1168479	leaf	35652	1	1	0.0
+Salmonella phage vB_SemP_Emek	1168548	species	39783	1	1	0.0
+Salmonella phage vB_SosS_Oslo	1168549	species	49116	3	1	0.0
+Mycobacterium phage Aeneas	1168595	species	53684	1	0	0.0
+Listeria phage vB_LmoM_AG20	1168744	leaf	133057	3	0	0.0
+Listeria phage LP-026	1173745	leaf	67150	4	0	0.0
+Listeria phage LP-037	1173747	leaf	64756	2	0	0.0
+Listeria phage LP-110	1173748	leaf	65132	4	0	0.0
+Salmonella phage FSL SP-058	1173761	leaf	72394	4	0	0.0
+Salmonella phage FSL SP-076	1173762	leaf	72098	10	4	0.0
+Pseudomonas phage PaMx25	1175654	leaf	57899	1	0	0.0
+Pseudomonas phage PaMx11	1175657	leaf	59878	1	1	0.0
+Pseudomonas phage PaMx42	1175662	species	43225	4	4	0.0
+Acinetobacter phage AP22	1187128	leaf	46387	4	4	0.0
+Xanthomonas citri phage CP2	1188795	species	42963	4	4	0.0
+Campylobacter virus CP21	1190451	species	182833	2	1	0.0
+Goose adenovirus 4	1193422	leaf	43376	1	1	0.0
+Bacillus phage BtCS33	1194641	species	41992	1	0	0.0
+Staphylococcus phage StauST398-1	1195068	species	45242	1	1	0.0
+Staphylococcus phage StauST398-3	1195071	species	41392	1	0	0.0
+Burkholderia virus Bcepmigl	1195073	species	62952	13	5	0.0
+Mycobacterium virus Astro	1195075	species	52494	2	0	0.0
+Cronobacter phage CR5	1195085	species	223989	2	1	0.0
+Sunshine Coast virus	1195087	leaf	17187	1	1	0.0
+Myotis myotis bocavirus 1	1195367	leaf	5038	1	1	0.0
+Enterobacteriaphage UAB_Phi87	1197935	leaf	87603	2	0	0.0
+Celeribacter phage P12053L	1197951	species	38889	2	2	0.0
+Staphylococcus virus IPLA7	1197953	species	42123	1	1	0.0
+Aeromonas phage Aes508	1198013	leaf	160646	1	0	0.0
+Aeromonas phage Aes012	1198014	leaf	161978	3	0	0.0
+Schizotequatrovirus	1198137	genus	246811	1	0	0.0
+Felixounavirus	1198140	genus	87274	1	1	0.0
+Staphylococcus phage Stau2	1200862	leaf	133798	3	0	0.0
+Aeromonas phage CC2	1204516	species	231743	11	1	0.0
+Escherichia phage ECML-117	1204521	species	66854	1	1	0.0
+Salmonella phage SSE121	1204529	leaf	147745	1	0	0.0
+Salmonella phage STML-198	1204531	leaf	158099	11	0	0.0
+Clostridium phage phiMMP02	1204534	species	48396	1	0	0.0
+Clostridium phage phiMMP04	1204535	species	31674	1	0	0.0
+Caulobacter virus phiCbK	1204537	species	215710	8	1	0.0
+Enterococcus phage EfaCPT1	1204540	leaf	40923	1	0	0.0
+Salmonella phage wksl3	1204541	leaf	42633	1	0	0.0
+Staphylococcus virus SA11	1204543	species	136326	4	3	0.0
+Lactobacillus phage phiAQ113	1206110	species	36566	1	1	0.0
+Yersinia phage phiR1-RT	1206558	leaf	168809	3	2	0.0
+Salmonella phage vB_SenS_AG11	1211279	leaf	41546	1	0	0.0
+Stenotrophomonas phage IME13	1211280	leaf	162327	4	1	0.0
+Mycobacterium virus Goose	1211282	species	50645	1	0	0.0
+uncultured crAssphage	1211417	species	97065	3	2	0.0
+Caulobacter phage CcrColossus	1211640	species	279967	10	9	0.0
+Caulobacter virus Karma	1211641	species	221828	11	1	0.0
+Caulobacter virus Magneto	1211642	species	218929	11	1	0.0
+Caulobacter virus Rogue	1211643	species	223720	5	3	0.0
+Caulobacter virus Swift	1211644	species	219216	9	0	0.0
+Raccoon polyomavirus	1219896	leaf	5016	1	0	0.0
+Acinetobacter phage YMC/09/02/B1251	1221835	leaf	45364	6	1	0.0
+Listeria phage P70	1225800	leaf	67170	2	0	0.0
+Mycobacterium virus Rebeuca	1225862	species	51235	2	0	0.0
+Mulberry badnavirus 1	1227557	species	6945	1	1	0.0
+Campylobacter phage CP30A	1229752	leaf	133572	3	0	0.0
+Escherichia phage phAPEC8	1229753	species	147737	2	1	0.0
+Propionibacterium phage ATCC29399B_T	1229793	leaf	29516	2	2	0.0
+Vibrio phage VPMS1	1233488	species	42313	2	2	0.0
+Providencia phage Redjac	1235559	species	58104	2	2	0.0
+Staphylococcus phage vB_SauM_Remus	1235659	leaf	134643	3	0	0.0
+Staphylococcus phage vB_SauM_Romulus	1235660	leaf	131332	3	0	0.0
+Pseudomonas phage AF	1235689	species	42689	1	1	0.0
+Staphylococcus phage JD007	1239383	leaf	141836	8	8	0.0
+Escherichia phage IME11	1239384	leaf	72570	1	1	0.0
+Streptomyces phage phiCAM	1239386	leaf	50348	1	1	0.0
+Abalone herpesvirus Victoria/AUS/2009	1241371	leaf	211518	3	3	0.0
+Culex theileri flavivirus	1244563	species	10280	1	1	0.0
+Heliothis virescens ascovirus 3g	1246651	leaf	199721	11	0	0.0
+Murid betaherpesvirus 8	1261657	species	202949	1	1	0.0
+Pseudomonas phage MPK6	1262514	species	42957	1	0	0.0
+Halovirus HSTV-1	1262530	species	32189	1	1	0.0
+Vibrio phage VH7D	1262539	species	246964	1	1	0.0
+Edwardsiella phage MSW-3	1264700	leaf	42746	9	6	0.0
+Ferret coronavirus	1264898	species	28434	1	1	0.0
+Tomato mottle wrinkle virus	1266458	species	5124	1	1	0.0
+Acanthamoeba polyphaga moumouvirus	1269028	leaf	1021348	60	51	0.0
+Pseudomonas virus H66	1273707	species	65270	6	4	0.0
+Pseudomonas phage PaP4	1273709	leaf	43895	4	0	0.0
+Synechococcus phage S-CBP1	1273711	species	46547	24	0	0.0
+Staphylococcus phage JS01	1273712	species	43458	1	1	0.0
+Escherichia phage PBECO4	1273738	leaf	348113	2	2	0.0
+Bacillus virus Finn	1273742	species	50161	1	1	0.0
+Halovirus HCTV-1	1273746	species	103257	2	2	0.0
+Halovirus HRTV-5	1273753	species	76134	6	4	0.0
+Halovirus HRTV-8	1273755	species	74519	2	0	0.0
+Bacillus phage BPS10C	1277886	leaf	159590	2	0	0.0
+Cyanophage S-RIM32	1278479	species	194437	31	0	0.0
+Pseudomonas phage PPpW-3	1279082	species	43564	4	4	0.0
+Vibrio phage JA-1	1283071	species	69278	9	0	0.0
+Pelagibacter phage HTVC008M	1283076	species	147284	1	1	0.0
+Pelagibacter phage HTVC010P	1283077	species	34892	2	2	0.0
+Nienokoue virus	1286143	species	10878	3	3	0.0
+Choristoneura rosaceana entomopoxvirus 'L'	1293539	leaf	282895	7	4	0.0
+Adoxophyes honmai entomopoxvirus 'L'	1293540	leaf	228750	4	3	0.0
+Mythimna separata entomopoxvirus 'L'	1293572	leaf	281182	3	3	0.0
+Mycobacterium phage Butters	1296646	leaf	41491	1	0	0.0
+Bacillus phage JL	1296655	leaf	137918	9	9	0.0
+Brevibacillus phage Jimmer2	1296658	leaf	54312	2	0	0.0
+Brevibacillus phage Jimmer1	1296659	species	54312	2	0	0.0
+Viunavirus	1298971	genus	155201	1	0	0.0
+Alteromonas phage vB_AmaP_AD45-P1	1300004	species	103910	2	2	0.0
+Invertebrate iridovirus 25	1301280	species	204815	3	3	0.0
+Escherichia phage Lw1	1307804	species	176227	15	14	0.0
+Clanis bilineata nucleopolyhedrovirus	1307957	species	135454	1	1	0.0
+Bacillus phage vB_BanS-Tsamsa	1308863	species	168876	3	3	0.0
+Staphylococcus phage StauST398-5	1308897	species	43301	1	0	0.0
+Allamanda leaf mottle distortion virus	1317107	species	5462	1	0	0.0
+Edwardsiella phage PEi21	1325372	leaf	43378	5	3	0.0
+Flavobacterium phage 6H	1325731	leaf	46978	1	0	0.0
+Mycobacterium phage CASbig	1327035	species	53369	1	1	0.0
+Mycobacterium phage WIVsmall	1327036	species	53359	2	2	0.0
+Mycobacterium phage Fishburne	1327765	leaf	47109	3	0	0.0
+Mycobacterium phage HINdeR	1327770	species	52617	1	1	0.0
+Cronobacter phage CR8	1327934	leaf	149162	2	0	0.0
+Cronobacter phage S13	1327935	species	182145	7	7	0.0
+Mycobacterium phage Chy4	1327947	species	46639	1	0	0.0
+Mycobacterium phage Chy5	1327948	species	51214	1	0	0.0
+Mycobacterium phage Adler	1327959	species	95705	4	4	0.0
+Pseudomonas phage PAK_P5	1327964	leaf	88135	1	0	0.0
+Pseudomonas phage CHA_P1	1327965	leaf	88255	2	1	0.0
+Cellulophaga phage phi19:1	1327970	species	57447	2	2	0.0
+Cellulophaga phage phi17:2	1327972	leaf	145343	4	1	0.0
+Cellulophaga phage phi12:1	1327976	leaf	39148	1	1	0.0
+Cellulophaga phage phi10:1	1327981	species	53664	2	2	0.0
+Cellulophaga phage phi18:1	1327982	leaf	39189	1	0	0.0
+Cellulophaga phage phi18:3	1327983	species	71443	1	0	0.0
+Cellulophaga phage phi46:3	1327985	species	72961	2	1	0.0
+Cellulophaga phage phi12a:1	1327987	species	6478	1	1	0.0
+Cellulophaga phage phi14:2	1327990	species	100418	4	4	0.0
+Cellulophaga phage phi39:1	1327993	species	28760	2	2	0.0
+Cellulophaga phage phi4:1	1328029	leaf	145865	5	2	0.0
+Eptesipox virus	1329402	species	176688	3	3	0.0
+Pseudomonas phage PaBG	1335230	species	258139	20	13	0.0
+Eidolon helvum papillomavirus 3	1335477	leaf	7991	1	1	0.0
+Salmonella phage Jersey	1340534	leaf	43447	1	0	0.0
+Mycobacterium phage Redno2	1340709	species	108297	1	1	0.0
+Mycobacterium phage Breeniome	1340712	leaf	154434	1	0	0.0
+Escherichia phage JH2	1340750	leaf	87712	2	0	0.0
+Staphylococcus phage phiIBB-SEP1	1340769	leaf	139928	1	1	0.0
+Synechococcus phage S-MbCM100	1340812	species	170438	5	0	0.0
+Mycobacterium phage Catdawg	1340819	species	72108	1	0	0.0
+Mycobacterium phage Daenerys	1340822	species	58043	2	0	0.0
+Mycobacterium phage Whirlwind	1340826	species	76050	1	1	0.0
+Mycobacterium phage KayaCho	1340830	species	70838	2	0	0.0
+Mycobacterium phage Dylan	1340831	species	69815	1	0	0.0
+Mycobacterium phage Crossroads	1340836	species	76129	2	0	0.0
+Parvovirus NIH-CQV	1341019	species	3780	24	24	0.0
+Pandoravirus dulcis	1349409	species	1908524	32	25	0.0
+Pandoravirus salinus	1349410	species	2473870	17	16	0.0
+Sinorhizobium phage phiM12	1357423	leaf	194701	6	0	0.0
+Bacillus phage phiCM3	1357713	species	38772	1	0	0.0
+Caulobacter phage Cr30	1357714	species	155997	2	2	0.0
+Microcystis phage MaMV-DC	1357715	species	169223	5	3	0.0
+Hemileuca sp. nucleopolyhedrovirus	1367203	leaf	140633	1	1	0.0
+Mycobacterium phage Adzzy	1383059	species	52519	3	3	0.0
+Escherichia phage vB_EcoM_PhAPEC2	1391224	leaf	167318	1	0	0.0
+Escherichia phage 4MG	1391428	leaf	148567	2	0	0.0
+Phormidium phage MIS-PhV1A	1391455	species	45532	2	1	0.0
+Phormidium phage MIS-PhV1B	1391456	species	41291	2	0	0.0
+Edwardsiella phage eiAU-183	1391659	species	43017	3	0	0.0
+Streptococcus phage 20617	1392231	species	48800	18	18	0.0
+Cotton chlorotic spot virus	1396815	species	5320	1	1	0.0
+Pectobacterium phage PM1	1399915	species	55098	1	1	0.0
+Burkholderia phage JG068	1401297	species	41604	1	1	0.0
+Erwinia phage PhiEaH1	1401669	leaf	218339	1	1	0.0
+Bacillus phage Page	1406786	leaf	39874	1	0	0.0
+Bacillus phage Pony	1406789	leaf	39844	1	0	0.0
+Bacillus phage Spock	1406791	leaf	164297	2	1	0.0
+Salmonella phage Marshall	1406794	leaf	156338	2	0	0.0
+Salmonella phage Maynard	1406795	leaf	154701	2	0	0.0
+Pseudomonas phage TL	1406974	leaf	45696	4	0	0.0
+Clostridium phage CDMH1	1411095	species	54279	6	3	0.0
+Lactococcus phage phiL47	1412875	species	128546	14	11	0.0
+Pepper chlorotic spot virus	1414655	species	16934	31	31	0.0
+Rhizobium phage vB_RleS_L338C	1414737	species	109558	1	1	0.0
+Arthrobacter phage vB_ArS-ArV2	1414742	species	37372	5	5	0.0
+Mycobacterium phage Validus	1414747	species	62466	1	1	0.0
+Xylella phage Paz	1415145	species	43869	1	1	0.0
+Xylella phage Prado	1415146	leaf	43940	5	5	0.0
+Xylella phage Salvo	1415147	leaf	55601	3	3	0.0
+Xylella phage Sano	1415148	leaf	56147	2	2	0.0
+Achromobacter phage JWAlpha	1416009	leaf	72329	3	3	0.0
+Enterococcus phage IME_EF3	1416012	leaf	41687	2	2	0.0
+Escherichia phage vB_EcoS_AHP42	1416028	leaf	46847	1	0	0.0
+Escherichia phage vB_EcoS_AHS24	1416030	leaf	46440	1	0	0.0
+Escherichia phage vB_EcoS_AKS96	1416031	leaf	45746	1	0	0.0
+Shigella phage 75/02 Stx	1416032	leaf	60875	6	3	0.0
+Sea otter poxvirus	1416741	species	127879	3	3	0.0
+Tunisvirus fontaine2	1421067	leaf	380011	8	8	0.0
+Mycobacterium phage EagleEye	1429759	species	52974	1	0	0.0
+Mycobacterium phage BellusTerra	1429791	species	51236	1	0	0.0
+Mycobacterium phage Donovan	1429793	leaf	47162	4	0	0.0
+Pectobacterium bacteriophage PM2	1429794	species	170286	2	2	0.0
+Enterococcus phage IME-EF4	1432658	leaf	40692	1	0	0.0
+Staphylococcus phage vB_SepS_SEP9	1434319	leaf	92417	12	11	0.0
+Oenococcus phage phi9805	1435411	species	46145	3	3	0.0
+Klebsiella phage K64-1	1439894	leaf	346602	4	0	0.0
+Mycobacterium phage Nyxis	1445714	species	51250	2	0	0.0
+Mycobacterium phage MichelleMyBell	1445726	leaf	42240	1	0	0.0
+Mycobacterium phage 32HC	1445729	leaf	50781	1	1	0.0
+Bacillus phage Bp8p-C	1445810	leaf	151417	1	1	0.0
+Salmonella phage STP4-a	1445860	leaf	159914	10	1	0.0
+Escherichia phage vB_EcoS_FFH_1	1446489	leaf	108483	3	0	0.0
+Escherichia phage FFH2	1446490	leaf	139020	1	1	0.0
+Salmonella phage vB-SalM-SJ3	1446492	leaf	162910	2	0	0.0
+Pseudomonas phage vB_PaeP_Tr60_Ab31	1449437	species	45550	6	2	0.0
+Staphylococcus phage phiSA12	1450142	leaf	142094	1	0	0.0
+Pseudomonas phage phi2	1450169	species	41871	1	0	0.0
+Pithovirus sibericum	1450746	species	610033	2	2	0.0
+Felis catus gammaherpesvirus 1	1452540	leaf	122522	1	1	0.0
+Dragonfly larvae associated circular virus-9	1454030	species	1722	1	1	0.0
+Enterobacter phage PG7	1455074	leaf	173276	28	24	0.0
+Microbacterium phage vB_MoxS-ISF9	1458670	species	59254	1	1	0.0
+Mycobacterium phage Hawkeye	1458711	leaf	67383	2	2	0.0
+Vibrio phage CHOED	1458716	species	66316	2	1	0.0
+Mycobacterium phage Alsfro	1458724	species	52136	2	0	0.0
+Pseudomonas phage phiPsa374	1458843	leaf	97906	6	6	0.0
+Mycobacterium phage RhynO	1458846	species	46739	1	0	0.0
+Escherichia phage Bp4	1458848	leaf	72583	1	1	0.0
+Listeria phage LP-030-3	1458852	species	41156	1	0	0.0
+Listeria phage LP-064	1458853	leaf	135279	3	0	0.0
+Listeria phage LP-083-2	1458855	leaf	135831	3	0	0.0
+Listeria phage LP-101	1458856	species	43767	2	1	0.0
+Listeria phage LP-114	1458857	leaf	66676	4	0	0.0
+Shewanella sp. phage 1/4	1458859	species	133824	11	0	0.0
+Shewanella sp. phage 1/40	1458860	species	139004	14	3	0.0
+Vibrio phage PVA1	1461743	species	41529	2	2	0.0
+Mycobacterium phage Hosp	1463811	species	70667	2	0	0.0
+Staphylococcus phage DW2	1464127	species	41941	3	2	0.0
+Anopheles minimus irodovirus	1465751	species	163023	1	0	0.0
+Enterobacteria phage 9g	1468411	leaf	56702	1	0	0.0
+Nitrincola phage 1M3-16	1472912	species	82438	1	1	0.0
+Aureococcus anophagefferens virus	1474867	species	370920	10	9	0.0
+Pseudomonas phage vB_PaeS_SCH_Ab26	1476390	leaf	43056	5	0	0.0
+Lactococcus phage P092	1476887	species	53513	1	0	0.0
+Lactococcus phage P118	1476888	species	54173	2	1	0.0
+Lactococcus phage P162	1476889	species	55584	2	1	0.0
+Dinoroseobacter phage DFL12phi1	1477404	leaf	75028	4	3	0.0
+Serratia phage PS2	1481112	species	167266	1	1	0.0
+Acinetobacter phage vB_AbaM_Acibel004	1481186	species	99730	5	4	0.0
+Listeria phage List-36	1486422	leaf	131952	2	2	0.0
+Mycobacterium phage Bernal13	1486424	leaf	42392	2	2	0.0
+Mycobacterium phage Kampy	1486425	species	51378	1	0	0.0
+Mycobacterium phage ZoeJ	1486427	species	57315	1	0	0.0
+Mycobacterium phage Damien	1486469	species	68386	4	0	0.0
+Mycobacterium phage Gaia	1486472	leaf	90460	3	3	0.0
+Bacillus phage CAM003	1486657	leaf	160541	3	0	0.0
+Bacillus phage Evoli	1486658	leaf	159656	1	0	0.0
+Bacillus phage Hakuna	1486659	leaf	158100	1	0	0.0
+Bacillus phage Hoody T	1486660	leaf	159837	1	0	0.0
+Bacillus phage Megatron	1486661	leaf	158750	2	0	0.0
+Bacillus phage Riley	1486662	leaf	162816	3	0	0.0
+Synechococcus phage ACG-2014b	1493508	species	172688	3	0	0.0
+Synechococcus phage ACG-2014d	1493509	species	179110	4	4	0.0
+Synechococcus phage ACG-2014e	1493510	species	189418	3	1	0.0
+Synechococcus phage ACG-2014f	1493511	species	228143	2	2	0.0
+Synechococcus phage ACG-2014g	1493512	species	174885	7	2	0.0
+Synechococcus phage ACG-2014i	1493513	species	190768	2	0	0.0
+Synechococcus phage ACG-2014j	1493514	species	192108	3	0	0.0
+Bacillus phage SPG24	1497851	leaf	152069	2	0	0.0
+Enterococcus phage ECP3	1498168	leaf	145518	11	2	0.0
+Escherichia phage PE3-1	1498170	species	39093	1	1	0.0
+Staphylococcus phage SA97	1498171	species	40592	2	1	0.0
+Bacillus phage JBP901	1498212	leaf	159492	2	0	0.0
+Shigella phage POCJ13	1498227	leaf	62699	2	0	0.0
+Staphylococcus phage 6ec	1500386	leaf	93794	2	2	0.0
+Halovirus VNH-1	1500510	species	10021	3	3	0.0
+Pseudomonas phage phiPSA1	1500757	species	51090	3	3	0.0
+Hollyhock yellow vein mosaic Islamabad virus	1504732	leaf	2741	1	0	0.0
+Staphylococcus phage 3MRA	1505026	species	41931	2	2	0.0
+Acinetobacter phage YMC-13-01-C62	1505225	leaf	44844	1	0	0.0
+Aeromonas phage pAh6-C	1505227	species	53744	1	1	0.0
+Wencheng Sm shrew coronavirus	1508228	species	25995	1	1	0.0
+Escherichia coli O157 typing phage 6	1508681	leaf	160570	1	0	0.0
+Falconid herpesvirus 1	1510155	leaf	204054	9	0	0.0
+Primate bocaparvovirus 1	1511871	species	5093	1	0	0.0
+Bitter gourd yellow vein virus	1513489	species	5453	2	2	0.0
+Human astrovirus BF34	1518575	leaf	6577	1	1	0.0
+Escherichia phage vB_EcoP_SU10	1519788	leaf	77327	4	0	0.0
+Skua adenovirus 1	1520004	leaf	26340	1	1	0.0
+Sinorhizobium phage phiLM21	1524882	species	50827	7	7	0.0
+Staphylococcus phage P108	1526408	leaf	140807	2	1	0.0
+Sulfitobacter phage NYA-2014a	1526550	species	42092	1	0	0.0
+Escherichia phage CICC 80001	1527506	species	38810	3	3	0.0
+Mycobacterium phage Squirty	1527512	species	60285	2	2	0.0
+Idiomarinaceae phage Phi1M2-2	1527515	species	36844	1	1	0.0
+Escherichia phage Av-05	1527519	leaf	120938	3	3	0.0
+Pseudomonas phage vB_PaeP_PPA-ABTNL	1527525	species	43227	1	0	0.0
+Ralstonia phage RSY1	1530085	species	40002	2	2	0.0
+Idiomarinaceae phage 1N2-2	1536592	species	34773	2	2	0.0
+Mycobacterium phage BuzzLyseyear	1536598	species	59419	1	0	0.0
+Kumasi rhabdovirus	1537975	leaf	11072	1	0	0.0
+Bacillus phage Mater	1540090	leaf	164302	5	5	0.0
+Bacillus phage Moonbeam	1540091	leaf	161239	31	31	0.0
+Bacillus phage Pookie	1540093	leaf	40214	1	0	0.0
+Citrobacter phage Moogle	1540094	leaf	87999	2	0	0.0
+Citrobacter virus Stevie	1540096	species	49816	1	1	0.0
+Escherichia phage Pollock	1540097	leaf	68365	8	6	0.0
+Salmonella virus Stitch	1540099	species	123475	5	0	0.0
+Campylobacter phage PC14	1541686	species	134927	2	0	0.0
+Mycobacterium phage Omnicron	1541819	species	61511	1	1	0.0
+Mycobacterium phage Ariel	1541824	species	109801	1	0	0.0
+Shigella phage Shf125875	1541825	leaf	169062	1	0	0.0
+Escherichia phage vB_EcoM-ep3	1541883	leaf	42351	4	2	0.0
+Salmonella virus Chi	1541887	species	118985	4	0	0.0
+Prochlorococcus phage P-TIM68	1542477	species	197361	4	4	0.0
+Mikumi yellow baboon virus 1	1546177	leaf	14927	2	2	0.0
+Tipula oleracea nudivirus	1546257	species	145704	2	2	0.0
+Pseudomonas phage vB_PaeS_PAO1_Ab18	1548905	leaf	56537	2	1	0.0
+Pseudomonas phage vB_PaeS_PAO1_Ab19	1548912	leaf	58139	1	0	0.0
+Escherichia phage 121Q	1555202	leaf	348532	4	3	0.0
+Ruegeria phage DSS3-P1	1555208	species	59601	5	5	0.0
+Streptomyces phage Jay2Jay	1556290	leaf	133531	4	4	0.0
+Yellowstone Lake virophage 6	1557034	species	24837	1	1	0.0
+Yellowstone Lake virophage 7	1557035	species	23193	4	4	0.0
+Mycobacterium phage Larenn	1560285	species	52967	2	2	0.0
+Mycobacterium phage Murucutumbu	1560286	species	60609	2	2	0.0
+Lactococcus phage WRP3	1560313	species	130008	4	2	0.0
+Acinetobacter phage YMC13/03/R2096	1560342	species	98170	5	5	0.0
+Melbournevirus	1560514	species	369360	3	1	0.0
+Delftia phage RG-2014	1563661	species	73882	4	3	0.0
+Streptococcus phage SpSL1	1566990	species	33756	6	6	0.0
+Arthrobacter phage vB_ArtM-ArV1	1566993	leaf	71200	2	0	0.0
+Pseudomonas phage YH6	1566995	species	73050	2	2	0.0
+Escherichia virus DT57C	1567006	species	108065	2	0	0.0
+Clostridium phage phiCT19406C	1567011	species	35703	1	1	0.0
+Clostridium phage phiCT453A	1567012	species	42158	1	1	0.0
+Salmonella phage vB_SPuM_SP116	1567025	leaf	87510	1	0	0.0
+Mycobacterium phage Milly	1567473	species	58211	1	0	0.0
+Mycobacterium phage Sbash	1567475	leaf	55832	1	1	0.0
+Shigella phage pSf-2	1572702	leaf	50109	5	0	0.0
+Staphylococcus phage phiIPLA-C1C	1572704	leaf	140961	1	1	0.0
+Geobacillus virus E3	1572712	species	141298	5	5	0.0
+Pseudomonas phage PS-1	1573458	species	48666	6	6	0.0
+Parapoxvirus red deer/HL953	1579460	leaf	139981	3	1	0.0
+Agrotis segetum nucleopolyhedrovirus B	1580580	species	148981	2	2	0.0
+Clostridium phage phiCD111	1582150	species	41560	2	0	0.0
+Clostridium phage phiCD146	1582151	species	41507	1	0	0.0
+Clostridium phage phiCD211	1582152	species	131704	2	2	0.0
+Clostridium phage phiMMP01	1582156	species	44461	2	0	0.0
+Clostridium phage phiMMP03	1582157	species	52261	2	0	0.0
+Yellowstone lake phycodnavirus 1	1586713	species	178262	6	6	0.0
+Yellowstone lake phycodnavirus 2	1586714	species	171045	6	6	0.0
+Yellowstone lake phycodnavirus 3	1586715	species	171454	11	11	0.0
+Streptococcus phage M102AD	1587907	species	30664	41	40	0.0
+Yersinia phage vB_YenM_TG1	1589265	leaf	162101	2	1	0.0
+Vibrio phage phi 1	1589297	species	66708	11	2	0.0
+Vibrio phage phi 3	1589298	leaf	116138	9	0	0.0
+Cyanophage P-TIM40	1589733	species	188632	1	1	0.0
+Achromobacter phage JWX	1589746	leaf	49714	1	0	0.0
+Achromobacter phage 83-24	1589747	leaf	48216	1	0	0.0
+Achromobacter phage JWF	1589748	species	81541	2	2	0.0
+Escherichia phage RCS47	1590550	leaf	115154	3	0	0.0
+Listeria phage vB_LmoS_188	1591072	species	38392	2	1	0.0
+Listeria phage vB_LmoS_293	1591073	species	40759	1	0	0.0
+Sewage-associated circular DNA virus-16	1592083	species	2042	3	3	0.0
+Sewage-associated circular DNA virus-27	1592094	species	2638	2	2	0.0
+Condylorrhiza vestigialis MNPV	1592576	species	125767	8	8	0.0
+Bacillus phage Palmer	1597966	leaf	40000	1	0	0.0
+Enterococcus phage EFDG1	1597976	leaf	147589	5	4	0.0
+Escherichia phage ECBP1	1604356	leaf	69855	1	1	0.0
+Mycobacterium phage Kratio	1606763	species	62738	1	0	0.0
+Huangpi Tick Virus 1	1608047	species	18467	2	2	0.0
+Shayang Fly Virus 1	1608065	species	13732	1	1	0.0
+Tacheng Tick Virus 6	1608088	leaf	10787	2	2	0.0
+Wenzhou Crab Virus 1	1608091	leaf	9591	6	6	0.0
+Wenzhou Crab Virus 3	1608093	species	12860	6	6	0.0
+Wuhan House Fly Virus 2	1608105	species	14731	1	1	0.0
+Wuhan Millipede Virus 2	1608125	leaf	20457	1	1	0.0
+Xincheng Mosquito Virus	1608141	leaf	12774	1	1	0.0
+Edwardsiella phage PEi20	1608310	species	177643	3	3	0.0
+Chimeric virus 14	1608440	species	3141	2	2	0.0
+Phytophthora parasitica virus	1608451	species	3753	2	2	0.0
+Bacillus phage Stahl	1610832	leaf	80148	1	1	0.0
+Enterobacteria phage JenK1	1610836	leaf	60747	1	0	0.0
+Enterobacteria phage JenP1	1610837	leaf	60754	2	0	0.0
+Enterobacteria phage JenP2	1610838	leaf	59802	1	0	0.0
+Vibrio phage ValKK3	1610855	leaf	248088	1	1	0.0
+Salmonella phage f18SE	1611545	leaf	41868	1	1	0.0
+Avon-Heathcote Estuary associated circular virus 3	1618254	species	2656	2	2	0.0
+Citrobacter phage CVT22	1622234	species	47636	3	3	0.0
+Cheoctovirus	1623281	genus	59085	1	0	0.0
+Kostyavirus	1623284	genus	75953	7	5	0.0
+Phietavirus	1623298	genus	0	2	2	0.0
+Acinetobacter phage YMC11/12/R2315	1628720	species	44846	1	0	0.0
+Acinetobacter phage YMC11/11/R3177	1628721	leaf	47575	3	0	0.0
+Pseudoalteromonas phage H103	1636200	species	43190	1	0	0.0
+Proteus phage vB_PmiM_Pm5461	1636250	species	161989	1	1	0.0
+Rhodoferax phage P26218	1636270	species	36315	28	28	0.0
+Tsukamurella phage TIN2	1636545	leaf	76964	1	0	0.0
+Tsukamurella phage TIN3	1636546	leaf	76269	1	0	0.0
+Tsukamurella phage TIN4	1636547	leaf	76268	1	0	0.0
+Fletchervirus	1636618	genus	133822	1	1	0.0
+Pseudomonas phage vB_PaeM_MAG1	1639815	leaf	94555	1	1	0.0
+Enterococcus phage EFLK1	1640885	leaf	130952	9	0	0.0
+Pseudomonas phage DL60	1640970	leaf	66103	1	1	0.0
+Stenotrophomonas phage vB_SmaS-DLP_2	1642663	species	42593	5	0	0.0
+Lambdina fiscellaria nucleopolyhedrovirus	1642929	species	157977	1	1	0.0
+Bacillus phage phi4J1	1643326	species	41486	1	1	0.0
+Paracoccus phage Shpa	1647282	leaf	38261	3	3	0.0
+Gordonia phage GMA6	1647285	leaf	83324	6	6	0.0
+Gordonia phage GMA7	1647286	leaf	73419	1	1	0.0
+Mycobacterium phage Luchador	1647300	species	53387	1	1	0.0
+Polaribacter phage P12002L	1647386	leaf	48689	2	2	0.0
+Polaribacter phage P12002S	1647387	leaf	49847	5	5	0.0
+Enterococcus phage Ec-ZZ2	1647400	leaf	41170	1	0	0.0
+Sinorhizobium phage phiM7	1647403	leaf	188427	6	0	0.0
+Gordonia phage GMA1	1647470	species	41207	4	4	0.0
+Gordonia phage GMA4	1647471	species	45537	3	3	0.0
+Gordonia phage GTE8	1647475	species	67617	1	1	0.0
+Tsukamurella phage TPA4	1647476	species	56212	2	2	0.0
+Kallithea virus	1654582	species	152388	1	1	0.0
+Salmonella phage 19	1654883	species	94766	9	6	0.0
+Salmonella phage 38	1654891	leaf	156833	2	0	0.0
+Pseudoalteromonas phage H101	1654919	species	131903	1	1	0.0
+Escherichia phage HY03	1654926	leaf	170770	1	0	0.0
+Klebsiella phage PKP126	1654927	leaf	50934	3	3	0.0
+Klebsiella phage PKO111	1654928	leaf	168758	3	3	0.0
+Propionibacterium phage Lauchelly	1655015	leaf	29517	2	2	0.0
+Escherichia phage APECc02	1655314	leaf	135400	2	2	0.0
+Gokushovirinae Bog1183_53	1655646	species	4609	3	3	0.0
+Microviridae Bog1249_12	1655647	species	4451	1	1	0.0
+Gokushovirinae Fen672_31	1655656	species	4624	1	1	0.0
+Kobuvirus cattle/Kagoshima-1-22-KoV/2014/JPN	1659220	leaf	8087	1	1	0.0
+Rhodobacter phage RcRhea	1662332	leaf	36065	1	0	0.0
+Rhodobacter phage RcCronus	1662333	leaf	35985	1	0	0.0
+Ostreococcus lucimarinus virus 2	1663208	species	196300	113	29	0.0
+Ostreococcus lucimarinus virus 7	1663209	species	182309	82	1	0.0
+Ostreococcus mediterraneus virus 1	1663210	species	193301	2	0	0.0
+Achromobacter phage phiAxp-3	1664247	leaf	72825	3	3	0.0
+Pseudoalteromonas phage Pq0	1667322	species	33399	1	1	0.0
+Mycobacterium phage Smeadley	1673873	species	52392	2	0	0.0
+Mycobacterium phage Ovechkin	1673889	species	58338	1	0	0.0
+Erysipelothrix phage SE-1	1675317	species	34997	2	2	0.0
+Bacillus phage Pavlov	1675598	species	40024	1	0	0.0
+Citrobacter phage Merlin	1675602	leaf	172733	6	6	0.0
+Klebsiella phage Matisse	1675607	leaf	176081	3	0	0.0
+Klebsiella phage Miro	1675608	leaf	176055	4	1	0.0
+Diatraea saccharalis granulovirus	1675862	species	98392	3	3	0.0
+Urbanus proteus nucleopolyhedrovirus	1675866	species	105555	1	1	0.0
+Chimpanzee faeces associated circular DNA virus 1	1676184	species	3811	5	5	0.0
+Mollivirus sibericum	1678078	species	651523	7	7	0.0
+Diatom colony associated dsRNA virus 11	1678171	species	5160	1	1	0.0
+Fusarium oxysporum f. sp. dianthi mycovirus 1	1679238	leaf	11804	1	1	0.0
+Salmon gill poxvirus	1680908	species	241564	2	2	0.0
+Roseobacter phage RDJL Phi 2	1682380	leaf	63513	3	3	0.0
+Lake Sarah-associated circular molecule 8	1685733	species	1182	1	1	0.0
+Lake Sarah-associated circular virus-1	1685735	species	2862	4	4	0.0
+Lake Sarah-associated circular virus-11	1685737	species	2198	1	0	0.0
+Lake Sarah-associated circular virus-27	1685754	species	2256	1	1	0.0
+Bacillus phage TsarBomba	1690456	leaf	162486	2	2	0.0
+Streptomyces phage SF3	1690818	species	60934	1	0	0.0
+Brevibacillus phage Osiris	1691955	leaf	52955	2	0	0.0
+Palaemonetes kadiakensis Mississippi grass shrimp associated circular virus	1692258	species	1895	2	2	0.0
+Mycobacterium phage Phatniss	1698356	species	57293	1	0	0.0
+Mycobacterium phage Brusacoram	1698358	leaf	47618	4	2	0.0
+Klebsiella phage JD18	1698360	leaf	166313	1	1	0.0
+Lactococcus phage GE1	1698369	species	24847	5	5	0.0
+Bacillus phage AvesoBmore	1698451	leaf	167431	2	0	0.0
+Mycobacterium phage Snenia	1698714	species	75626	1	1	0.0
+Mycobacterium phage XFactor	1698715	species	55617	1	0	0.0
+Gokushovirinae GAIR4	1701404	species	4468	6	6	0.0
+Gokushovirinae GNX3R	1701405	species	4273	1	1	0.0
+Streptococcus phage phiARI0004	1701811	species	41105	1	0	0.0
+Streptococcus phage phiARI0031	1701812	species	41887	1	0	0.0
+Streptococcus phage phiARI0131-2	1701814	species	34563	32	31	0.0
+Streptococcus phage phiARI0462	1701826	species	40498	3	2	0.0
+Streptococcus phage phiARI0468-1	1701827	species	41063	1	0	0.0
+Streptococcus phage phiARI0468-2	1701828	species	42186	1	0	0.0
+Streptococcus phage phiARI0746	1701837	species	33181	9	7	0.0
+Streptococcus phage phiARI0923	1701842	species	33477	8	7	0.0
+Citrobacter phage Mordin	1701846	leaf	89596	1	0	0.0
+Rhodococcus phage CosmicSans	1701851	species	46596	3	0	0.0
+Mycobacterium phage Serenity	1701853	species	52088	1	1	0.0
+Thermus virus P23-77	1714272	species	17036	38	38	0.0
+Red clover powdery mildew-associated totivirus 9	1714370	species	5997	3	3	0.0
+Paenibacillus phage Tripp	1718161	leaf	54439	1	1	0.0
+Mycobacterium phage Archie	1718599	species	76271	2	0	0.0
+Mycobacterium phage Mufasa	1718600	species	58065	1	0	0.0
+Escherichia phage SUSP1	1718606	leaf	90743	1	0	0.0
+Klebsiella phage vB_KpnM_KB57	1719140	species	142987	3	1	0.0
+Escherichia phage slur03	1720496	leaf	167467	2	0	0.0
+Escherichia phage slur07	1720500	species	167124	2	0	0.0
+Escherichia phage slur14	1720504	species	167467	1	0	0.0
+Golden Marseillevirus	1720526	species	360610	2	1	0.0
+Escherichia phage slur09	1728958	leaf	111751	1	1	0.0
+Staphylococcus phage SPbeta-like	1732063	species	127726	2	2	0.0
+Sulfolobus monocaudavirus SMV3	1732177	species	64323	1	1	0.0
+Sulfolobales virus YNP1	1732179	species	40860	1	1	0.0
+Bacillus phage VMY22	1734382	species	18609	1	0	0.0
+Haloarcula californiae icosahedral virus 1	1735722	leaf	31314	1	1	0.0
+Andrographis yellow vein leaf curl virus	1738045	species	2754	1	0	0.0
+Flavobacterium phage FpV4	1740108	leaf	88308	4	0	0.0
+Pseudomonas phage phi3	1754217	species	32637	3	3	0.0
+Pseudomonas phage YMC11/02/R656	1755689	species	60919	9	9	0.0
+Escherichia phage JMPW2	1772218	leaf	50298	1	0	0.0
+Escherichia phage JMPW1	1772219	leaf	49628	1	0	0.0
+Arthrobacter phage Circum	1772295	leaf	58353	1	1	0.0
+Arthrobacter phage Gordon	1772298	leaf	58279	1	1	0.0
+Arthrobacter phage Martha	1772307	leaf	51027	1	1	0.0
+Arthrobacter phage Galaxy	1772326	leaf	37809	1	0	0.0
+Arthrobacter phage Jawnski	1772327	leaf	49419	1	0	0.0
+Arthrobacter phage PrincessTrina	1772328	leaf	70265	2	0	0.0
+Pseudomonas phage YMC11/07/P54_PAE_BP	1777064	species	50183	4	3	0.0
+Pseudomonas phage vB_PsyM_KIL1	1777065	leaf	90552	8	8	0.0
+Pseudomonas phage vB_PsyM_KIL4	1777069	leaf	92816	1	0	0.0
+Xanthomonas phage f20-Xaj	1784979	leaf	43851	2	0	0.0
+Xanthomonas phage f30-Xaj	1784981	leaf	44262	6	4	0.0
+Ostreococcus tauri virus OtV5	1785753	species	186713	2	0	0.0
+Ralstonia phage RSP15	1785960	species	167619	2	2	0.0
+Bat mastadenovirus WIV13	1788435	leaf	29162	1	1	0.0
+Circovirus-like genome DCCV-13	1788441	species	2433	1	1	0.0
+Circovirus-like genome DCCV-7	1788447	species	3021	2	0	0.0
+Bacillus phage SP-15	1792032	leaf	221908	1	1	0.0
+Pectobacterium phage CBB	1792242	species	378379	19	7	0.0
+Bacillus phage Deep Blue	1792245	leaf	157501	21	21	0.0
+Flavobacterium phage 2A	1792273	leaf	46575	1	0	0.0
+Flavobacterium phage Fpv1	1792274	leaf	88994	4	0	0.0
+Bacillus phage Mgbh1	1796993	leaf	58951	1	1	0.0
+Riverside virus 1	1803263	species	11713	1	1	0.0
+Mycobacterium phage Mulciber	1805459	species	52428	1	1	0.0
+Bacillus phage Nemo	1805950	species	162375	1	0	0.0
+Bacillus phage Nigalana	1805951	species	163041	2	1	0.0
+Bacillus phage NotTheCreek	1805952	species	161929	1	0	0.0
+Bacillus phage Phrodo	1805953	species	164443	1	0	0.0
+Bacillus phage Zuko	1805956	species	163345	1	0	0.0
+Phomopsis longicolla circular virus 1	1808960	species	3170	1	0	0.0
+Brazilian marseillevirus	1813599	species	362276	4	3	0.0
+Picornavirales Bu-3	1813613	species	9808	12	12	0.0
+Salmonella phage 118970_sal3	1813771	species	77375	28	0	0.0
+Salmonella phage 118970_sal1	1813781	species	59518	3	1	0.0
+Salmonella phage 118970_sal2	1813782	leaf	114180	6	0	0.0
+Salmonella phage 100268_sal2	1813783	leaf	125114	6	0	0.0
+Flavobacterium phage 23T	1814279	leaf	43226	1	0	0.0
+Flavobacterium phage Fpv2	1814282	species	89010	4	0	0.0
+Flavobacterium phage Fpv20	1814283	species	89937	4	0	0.0
+Flavobacterium phage Fpv3	1814284	species	88421	4	0	0.0
+Streptococcus virus 9874	1814960	species	32649	1	1	0.0
+Bacillus phage AR9	1815509	species	251042	15	0	0.0
+Synechococcus phage S-WAM1	1815521	species	185102	7	7	0.0
+Synechococcus phage S-WAM2	1815522	species	186386	8	5	0.0
+Grapevine leafroll-associated virus 13	1815581	species	17608	1	1	0.0
+Pseudomonas phage phiPMW	1815582	leaf	103218	6	1	0.0
+Pseudomonas phage pf16	1815630	leaf	158136	60	60	0.0
+Salmonella phage vB_SnwM_CGG4-1	1815631	species	159878	4	1	0.0
+Salmonella phage SJ46	1815968	leaf	103445	6	5	0.0
+Erwinia phage vB_EamM_Simmy50	1815988	leaf	271088	16	14	0.0
+Erwinia phage vB_EamM_Special G	1815989	leaf	273224	1	1	0.0
+Mycobacterium phage Xeno	1821538	leaf	42395	4	4	0.0
+Mycobacterium phage Phrann	1821541	leaf	44872	4	3	0.0
+Gordonia phage Attis	1821548	leaf	47881	1	0	0.0
+Gordonia phage SoilAssassin	1821562	species	47880	1	0	0.0
+Gordonia phage Vivi2	1821564	leaf	59337	1	0	0.0
+Gordonia phage Yvonnetastic	1821566	leaf	98136	4	4	0.0
+Mycobacterium phage Shipwreck	1821727	species	48670	3	0	0.0
+Tokyovirus A1	1826170	species	372707	1729	1728	0.0
+Salmonella phage phSE-2	1837218	species	49167	6	6	0.0
+Weissella phage WCP30	1837862	species	33697	2	2	0.0
+Acinetobacter phage vB_AbaM_ME3	1837876	leaf	234900	64	63	0.0
+Escherichia phage MX01	1837930	leaf	168929	1	1	0.0
+Gordonia phage Orchid	1838075	leaf	80650	1	1	0.0
+Gordonia phage Wizard	1838083	leaf	58308	1	1	0.0
+Propionibacterium phage PFR2	1838138	species	39640	11	11	0.0
+Faeces associated gemycircularvirus 19	1843739	leaf	2308	1	1	0.0
+Faeces associated gemycircularvirus 21	1843741	leaf	2125	1	1	0.0
+Pseudomonas phage NP1	1844477	leaf	58566	1	0	0.0
+Catopsilia pomona nucleopolyhedrovirus	1850906	species	128058	1	1	0.0
+Bacillus phage Belinda	1852564	species	162308	3	0	0.0
+Klebsiella phage vB_KpnM_KpV477	1852625	species	168272	2	2	0.0
+Morganella phage vB_MmoM_MP1	1852628	species	163201	3	3	0.0
+Erwinia phage vB_EamP_Frozen	1852641	leaf	75147	1	1	0.0
+Kayvirus	1857843	genus	138875	2	2	0.0
+Pecentumvirus	1857844	genus	134378	1	1	0.0
+Kaumoebavirus	1859492	species	350731	7	3	0.0
+Shigella phage SHFML-26	1863009	species	168993	1	1	0.0
+Enterobacter phage Arya	1864622	species	41918	2	0	0.0
+Pseudomonas phage MD8	1868596	species	43277	9	8	0.0
+Sugarcane striate virus	1868659	species	2749	1	1	0.0
+Mycobacterium phage Gardann	1873696	species	76012	4	2	0.0
+Pteropox virus	1873698	species	133492	3	3	0.0
+Mycobacterium phage Makemake	1873889	species	52496	3	0	0.0
+Pseudomonas phage Andromeda	1873949	leaf	40008	1	1	0.0
+Salmonella phage IME207	1873985	species	47564	2	1	0.0
+Bacillus phage Kida	1873998	species	162151	1	0	0.0
+Bacillus phage DirtyBetty	1873999	species	162415	2	0	0.0
+Bacillus phage Aurora	1874000	species	25908	15	15	0.0
+Bacillus phage Claudi	1874001	species	26504	1	1	0.0
+Klebsiella phage PMBT1	1880822	leaf	175206	3	0	0.0
+Loveridges garter snake virus 1	1881951	leaf	8884	1	1	0.0
+Synechococcus phage S-CAM22	1883365	species	172345	2	0	0.0
+Synechococcus phage S-CAM3	1883366	species	198190	243	212	0.0
+Synechococcus phage S-CAM4	1883367	species	191983	3	0	0.0
+Synechococcus phage S-CAM7	1883368	species	216121	2	2	0.0
+Synechococcus phage S-CAM9	1883369	species	174830	4	3	0.0
+Erwinia phage vB_EamM_ChrisDB	1883371	species	244840	4	2	0.0
+Erwinia phage vB_EamM_EarlPhillipIV	1883372	species	223935	2	1	0.0
+Erwinia phage vB_EamM_Kwan	1883374	species	246390	4	1	0.0
+Erwinia phage vB_EamM_Caitlin	1883379	species	241147	1	0	0.0
+Aquatic bird bornavirus 2	1884917	leaf	8904	1	1	0.0
+Gordonia phage Bantam	1887641	leaf	92580	1	1	0.0
+Gordonia phage CaptainKirk2	1887643	species	47898	1	1	0.0
+Gordonia phage Terapin	1887654	species	66611	2	2	0.0
+Gordonia phage Zirinka	1887656	leaf	52077	3	3	0.0
+Mycobacterium phage Tonenili	1891703	species	160985	3	0	0.0
+Sulfolobus islandicus rudivirus 3	1895333	species	32995	1	0	0.0
+Rhodococcus phage Weasels2	1897437	leaf	134973	8	8	0.0
+Mycobacterium phage Tortellini	1897497	leaf	49658	1	1	0.0
+Streptomyces phage Rima	1897525	leaf	56168	5	5	0.0
+Propionibacterium phage Doucette	1897534	leaf	37429	1	0	0.0
+Propionibacterium phage E6	1897536	leaf	38067	1	0	0.0
+Lymphocystis disease virus Sa	1898060	species	208501	2	2	0.0
+Campylobacter phage vB_CjeM_Los1	1904491	leaf	134073	2	1	0.0
+Sida angular mosaic virus	1904882	species	5349	1	1	0.0
+Bastrovirus-like_virus/VietNam/Bat/17819_21	1906170	species	5547	2	2	0.0
+Parus major densovirus	1907771	species	5166	1	1	0.0
+Picobirnavirus sp.	1907787	species	4297	1	1	0.0
+Ceratobasidium endornavirus C	1908813	species	21004	1	1	0.0
+Gata virus	1911435	species	11238	1	0	0.0
+Klebsiella phage vB_Kpn_IME260	1912318	leaf	123490	6	4	0.0
+Klebsiella phage vB_KpnM_KpV52	1912321	leaf	47405	1	0	0.0
+Mycobacterium phage Lukilu	1913044	leaf	157034	8	0	0.0
+Mosigvirus	1913652	genus	168244	1	0	0.0
+Shigella virus SP18	1913995	species	170605	2	0	0.0
+Escherichia virus IME08	1914192	species	172253	2	0	0.0
+Escherichia virus JS10	1914194	species	171451	2	0	0.0
+Yersinia virus D1	1914208	species	167063	1	0	0.0
+Only Syngen Nebraska virus 5	1917232	species	327147	8	6	0.0
+Bastillevirus	1918010	genus	158499	1	0	0.0
+Jilinvirus	1918725	genus	41768	1	0	0.0
+Cynomolgus cytomegalovirus	1919083	species	224064	1	0	0.0
+NL63-related bat coronavirus	1920748	leaf	28363	1	1	0.0
+Litunavirus	1920762	genus	72397	1	0	0.0
+Webervirus	1920860	genus	49596	1	0	0.0
+Escherichia virus KP26	1920999	species	93357	1	1	0.0
+Escherichia virus T1	1921008	species	48836	1	0	0.0
+Pakpunavirus	1921407	genus	92857	5	5	0.0
+Beihai hepe-like virus 8	1922385	species	10084	2	2	0.0
+Beihai hermit crab virus 1	1922388	species	9888	1	1	0.0
+Beihai picorna-like virus 119	1922548	species	10859	1	1	0.0
+Beihai picorna-like virus 2	1922562	species	9983	1	0	0.0
+Beihai picorna-like virus 47	1922591	species	8920	1	1	0.0
+Beihai sipunculid worm virus 3	1922675	species	9110	1	1	0.0
+Changjiang picorna-like virus 12	1922785	species	8774	4	3	0.0
+Hubei coleoptera virus 3	1922862	species	13741	1	1	0.0
+Hubei dimarhabdovirus virus 2	1922867	species	11332	1	1	0.0
+Hubei leech virus 3	1922901	species	8848	1	1	0.0
+Hubei orthoptera virus 1	1923009	species	9555	6	6	0.0
+Hubei picorna-like virus 37	1923117	species	9789	1	1	0.0
+Hubei picorna-like virus 70	1923154	species	10429	1	1	0.0
+Hubei rhabdo-like virus 3	1923187	species	12303	1	1	0.0
+Sanxia tombus-like virus 8	1923392	species	2566	1	1	0.0
+Shahe arthropod virus 1	1923409	species	9324	1	1	0.0
+Wenzhou picorna-like virus 35	1923621	species	9865	1	1	0.0
+Wenzhou shrimp virus 7	1923654	species	9997	1	1	0.0
+Wuhan arthropod virus 2	1923691	species	9876	1	1	0.0
+Wuhan heteroptera virus 2	1923702	species	4982	1	1	0.0
+Wuhan insect virus 31	1923735	species	7404	1	1	0.0
+Wuhan millipede virus 3	1923742	species	10655	1	1	0.0
+Wuhan nido-like virus 1	1923743	species	17562	1	1	0.0
+Wuhan spider virus 3	1923752	species	9421	3	3	0.0
+Xinzhou toro-like virus	1923777	leaf	30353	1	1	0.0
+Ralstonia phage RP12	1923889	leaf	279845	4	4	0.0
+Aquamicrobium phage P14	1927013	leaf	40551	1	1	0.0
+Soybean latent spherical virus	1927714	species	13946	1	1	0.0
+Ganda bee virus	1931095	leaf	10460	1	1	0.0
+Providencia phage vB_PreS_PR1	1931407	leaf	118537	6	6	0.0
+Pacmanvirus A23	1932881	species	395405	4	4	0.0
+Trichoderma atroviride mycovirus	1934322	species	8566	74	74	0.0
+Murine roseolovirus	1940555	species	173861	1	1	0.0
+Noumeavirus	1955558	species	376207	7	4	0.0
+Qinghai Himalayan marmot astrovirus 1	1961665	species	6712	1	1	0.0
+Aeonium ringspot virus	1962503	species	11559	1	1	0.0
+Serratia phage BF	1962671	leaf	357154	83	73	0.0
+Fall chinook aquareovirus	1963254	species	23307	1	1	0.0
+Escherichia phage CF2	1965365	leaf	168188	3	1	0.0
+Acinetobacter phage WCHABP12	1965454	leaf	45415	1	1	0.0
+Proteus phage VB_PmiS-Isfahan	1969841	species	54836	62547	3254	0.361173
+Escherichia phage vB_EcoM_ECOO78	1970797	leaf	41289	1	1	0.0
+Hoya chlorotic spot virus	1979541	species	6386	1	1	0.0
+Sphingobium phage Lacusarx	1980139	leaf	130138	1	0	0.0
+Sophora alopecuroides yellow stunt alphasatellite 1a	1980161	species	996	1	1	0.0
+Pigeonpea sterility mosaic emaravirus 1	1980429	species	14051	1	1	0.0
+Cano Delgadito orthohantavirus	1980463	species	12239	1	1	0.0
+Thottopalayam virus	1980493	leaf	11732	1	0	0.0
+Ralstonia phage phiRSL1	1980924	leaf	231255	6	6	0.0
+Staphylococcus virus IPLAC1C	1980931	species	140961	1	0	0.0
+Escherichia phage V18	1981500	leaf	129454	3	0	0.0
+Mycobacterium virus Bernal13	1982102	species	42392	1	0	0.0
+Mycobacterium virus Konstantine	1982364	species	68952	4	0	0.0
+Vibrio phage JSF10	1983593	leaf	111671	13	4	0.0
+Fishburnevirus	1983734	genus	46867	3	3	0.0
+Mycobacterium virus Jebeks	1983740	species	45580	2	0	0.0
+Mycobacterium virus Malithi	1983741	species	46869	2	0	0.0
+Agricanvirus	1984776	genus	272089	2	2	0.0
+Citrobacter virus Moon	1985342	species	170341	1	0	0.0
+Pepper yellow dwarf virus - Mexico	1987360	species	2971	34	33	0.0
+Broad-leafed dock virus A	1987403	species	8174	1	1	0.0
+Ranid herpesvirus 3	1987509	species	207914	2	1	0.0
+Escherichia virus JS98	2004457	species	170523	1	0	0.0
+Rhinolophus associated gemykibivirus 2	2004966	species	1998	2	2	0.0
+Escherichia phage ST0	2005047	leaf	170496	5	3	0.0
+Mycobacterium virus Alice	2006133	species	153401	1	0	0.0
+Mycobacterium virus Bxz1	2006134	species	155063	7	0	0.0
+Pseudomonas phage Noxifer	2006684	leaf	278136	1	1	0.0
+Shigella phage vB_SsoS-ISF002	2006922	leaf	50564	5	0	0.0
+Serratia phage CHI14	2006941	leaf	171175	3	3	0.0
+Acidovorax phage ACP17	2010329	leaf	156281	5	5	0.0
+Dioscorea bacilliform RT virus 2	2011125	species	7438	1	0	0.0
+Acinetobacter phage AbP2	2015804	leaf	45373	8	8	0.0
+Arthrobacter phage Colucci	2015834	leaf	70707	3	1	0.0
+Arthrobacter phage Molivia	2015839	leaf	58247	1	1	0.0
+Arthrobacter phage Abidatro	2015853	leaf	39122	1	0	0.0
+Ailuropoda melanoleuca papillomavirus 4	2016453	leaf	7996	1	0	0.0
+Giant panda circovirus 1	2016456	species	2745	9	7	0.0
+Human fecal virus Jorvi2	2017081	species	3925	1	1	0.0
+Common bottlenose dolphin gammaherpesvirus 1 strain Sarasota	2022783	species	167212	1	1	0.0
+Streptomyces phage Mildred21	2023959	leaf	131976	7	7	0.0
+Streptomyces phage Peebs	2023994	leaf	133047	2	0	0.0
+Streptomyces phage Samisti12	2023995	leaf	133710	2	0	0.0
+Agrobacterium phage Atu_ph07	2024264	leaf	490380	18	17	0.0
+Arthrobacter phage Piccoletto	2024282	leaf	49808	2	1	0.0
+Shigella phage Sf14	2024304	leaf	87575	2	0	0.0
+Shigella phage Sf17	2024305	leaf	90092	2	0	0.0
+Shigella phage Sf13	2024316	leaf	87570	2	0	0.0
+Murmansk poxvirus	2025359	species	204055	5	1	0.0
+NY_014 poxvirus	2025360	species	200223	6	1	0.0
+Erwinia phage vB_EamM_RisingSun	2026080	leaf	235108	1	1	0.0
+Aeromonas phage AS-gz	2026082	leaf	162422	2	1	0.0
+Rhodococcus phage Trina	2027905	leaf	139262	1	1	0.0
+Rhinolophus simulator polyomavirus 3	2029306	species	5082	1	0	0.0
+Enterococcus phage phiSHEF2	2030922	leaf	41712	1	0	0.0
+Enterococcus phage phiSHEF5	2030924	leaf	41598	1	0	0.0
+Eptesicus fuscus gammaherpesvirus	2035399	species	166748	1	1	0.0
+Cherax quadricarinatus iridovirus	2035708	species	165695	2	2	0.0
+Klebsiella phage vB_KpnM_KpV79	2041212	leaf	47760	1	1	0.0
+Pseudomonas phage SL2	2041345	leaf	279696	5	5	0.0
+Streptomyces phage Scap1	2041354	leaf	43060	1	1	0.0
+Salmonella phage Melville	2041413	leaf	159323	11	0	0.0
+Gordonia phage Lennon	2041512	leaf	60237	1	1	0.0
+Stenotrophomonas phage vB_SmaS_DLP_5	2044561	leaf	96542	3	3	0.0
+Escherichia phage VB_EcoS-Golestan	2047801	species	44829	4	0	0.0
+Corynebacterium phage Darwin	2047869	leaf	67743	2	2	0.0
+Proteus phage PM135	2048008	leaf	104329	4	4	0.0
+Gammapapillomavirus sp.	2049444	species	65410	2	1	0.0
+Bat associated cyclovirus 3	2050586	species	1741	3	3	0.0
+Yersinia phage fHe-Yen9-04	2052742	leaf	354378	15	9	0.0
+Tomelloso virus	2053981	species	112307	1	1	0.0
+Rhinolophus gammaherpesvirus 1	2054179	species	147790	1	1	0.0
+Cacao swollen shoot Ghana Q virus	2056885	species	7102	1	1	0.0
+Drosophila innubila nudivirus	2057187	species	155555	1	0	0.0
+Pleurochrysis carterae circular virus	2057942	species	2255	2	2	0.0
+Flamingopox virus FGPVKD09	2059380	species	293123	4	3	0.0
+Medicago sativa amalgavirus 1	2069326	species	3423	6	6	0.0
+Enterobacter phage Ec_L1	2070180	leaf	51894	2	2	0.0
+Enterococcus phage PMBT2	2070197	leaf	41489	1	0	0.0
+Mocis latipes granulovirus	2072024	species	134272	2	2	0.0
+Esparto virus	2072209	species	183261	11	10	0.0
+Dishui lake phycodnavirus 1	2079134	species	181035	1	1	0.0
+Pseudomonas phage PollyC	2079290	leaf	41651	2	2	0.0
+Streptomyces phage BillNye	2079426	leaf	127084	118	2	0.0
+Gordonia phage Brandonk123	2079564	leaf	58842	1	0	0.0
+Microbacterium phage Eleri	2079581	leaf	40366	2	2	0.0
+Red-crowned crane parvovirus	2079601	species	10971	3	3	0.0
+Oxyplax ochracea nucleopolyhedrovirus	2083176	species	113971	4	4	0.0
+Grapevine virus J	2093496	species	7390	1	1	0.0
+Pantoea phage vB_PagS_Vid5	2099652	leaf	61437	1	1	0.0
+Planarian secretory cell nidovirus	2100419	leaf	41178	1	1	0.0
+Domestic cat hepadnavirus	2107574	species	3187	2	2	0.0
+Pandoravirus macleodensis	2107707	species	1838258	12	12	0.0
+Pandoravirus neocaledonia	2107708	species	2003191	26	25	0.0
+Pandoravirus quercus	2107709	species	2077288	19	14	0.0
+Nephila clavipes virus 6	2108203	species	6677	1	1	0.0
+Salmonella phage SE1 (in:Nonagvirus)	2115848	leaf	60030	1	0	0.0
+Ackermannviridae	2169529	family	158103	1	0	0.0
+Klebsiella virus 0507KN21	2169687	species	159991	2	2	0.0
+Mythimna unipuncta granulovirus B	2169746	species	144673	1	1	0.0
+Bat associated circovirus 9	2169823	species	1900	1	1	0.0
+Visna-maedi virus	2169971	species	9202	1	1	0.0
+Deer mastadenovirus B	2170000	species	33945	1	1	0.0
+Maize yellow dwarf virus RMV	2170101	species	5612	1	1	0.0
+Apple luteovirus 1	2170544	species	6001	1	0	0.0
+Enterococcus phage LY0322	2172042	leaf	40934	3	2	0.0
+Enterococcus phage vB_EfaS_AL3	2175687	leaf	40789	1	0	0.0
+Enterococcus phage vB_EfaS_AL2	2175688	leaf	40836	1	0	0.0
+Alces alces faeces associated microvirus MP15 5067	2219136	species	5004	3	3	0.0
+Alces alces faeces associated microvirus MP18 4940	2219137	species	4892	2	2	0.0
+Lynx canadensis associated microvirus CLP 9413	2219141	species	5312	1	1	0.0
+Citrobacter phage CF1 ERZ-2017	2267236	leaf	171911	2	2	0.0
+Bufonid herpesvirus 1	2282206	species	158250	1	1	0.0
+Stipagrostis associaed virus	2282646	species	2296	2	2	0.0
+Macaca mulatta papillomavirus 6	2364646	species	7935	1	0	0.0
+Salvia divinorum RNA virus 1	2419804	species	9214	1	1	0.0
+Cetovirus	2560112	genus	122783	1	0	0.0
+Gofduovirus	2560141	genus	43129	1	0	0.0
+Tulanevirus	2560244	genus	162249	3	3	0.0
+Vibrio phage Ceto	2570300	leaf	128241	112	0	0.0
+Vibrio phage Thalassa	2570301	leaf	128602	234	2	0.0
+Mycobacterium phage Llij	2681623	leaf	56852	1	0	0.0
+Severe acute respiratory syndrome coronavirus 2	2697049	leaf	29903	1	1	0.0
+LC528233.1 Severe acute respiratory syndrome coronavirus 2 SARS-CoV-2/Hu/DP/Kng/19-027 RNA, complete genome	9000001	leaf	29902	12	0	0.0
+LC529905.1 Severe acute respiratory syndrome coronavirus 2 TKYE6182_2020 RNA, complete genome	9000002	leaf	29903	8	4	0.0
+LR757996.1 Wuhan seafood market pneumonia virus genome assembly, chromosome: whole_genome	9000004	leaf	29868	1	0	0.0
+LR757997.1 Wuhan seafood market pneumonia virus genome assembly, chromosome: whole_genome	9000005	leaf	29388	433	411	0.00313494
+LR757998.1 Wuhan seafood market pneumonia virus genome assembly, chromosome: whole_genome	9000006	leaf	29866	3	2	0.0
+MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome	9000007	leaf	29903	2	0	0.0
+MN938384.1 Severe acute respiratory syndrome coronavirus 2 isolate 2019-nCoV_HKU-SZ-002a_2020, complete genome	9000008	leaf	29838	6	0	0.0
+MN975262.1 Severe acute respiratory syndrome coronavirus 2 isolate 2019-nCoV_HKU-SZ-005b_2020, complete genome	9000009	leaf	29891	8	1	0.0
+MN988713.1 Severe acute respiratory syndrome coronavirus 2 isolate 2019-nCoV/USA-IL1/2020, complete genome	9000013	leaf	29882	24	4	0.0
+MN994467.1 Severe acute respiratory syndrome coronavirus 2 isolate 2019-nCoV/USA-CA1/2020, complete genome	9000014	leaf	29882	19	5	0.0
+MN994468.1 Severe acute respiratory syndrome coronavirus 2 isolate 2019-nCoV/USA-CA2/2020, complete genome	9000015	leaf	29883	2	2	0.0
+MN996527.1 Severe acute respiratory syndrome coronavirus 2 isolate WIV02, complete genome	9000016	leaf	29825	9	5	0.0
+MN996528.1 Severe acute respiratory syndrome coronavirus 2 isolate WIV04, complete genome	9000017	leaf	29891	1	0	0.0
+MN996529.1 Severe acute respiratory syndrome coronavirus 2 isolate WIV05, complete genome	9000018	leaf	29852	4	4	0.0
+MN996531.1 Severe acute respiratory syndrome coronavirus 2 isolate WIV07, complete genome	9000020	leaf	29857	10	9	0.0
+MN997409.1 Severe acute respiratory syndrome coronavirus 2 isolate 2019-nCoV/USA-AZ1/2020, complete genome	9000021	leaf	29882	6	0	0.0
+MT007544.1 Severe acute respiratory syndrome coronavirus 2 isolate Australia/VIC01/2020, complete genome	9000022	leaf	29893	25	10	0.0
+MT012098.1 Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/29/human/2020/IND, complete genome	9000023	leaf	29854	16	13	0.003086
+MT019529.1 Severe acute respiratory syndrome coronavirus 2 isolate BetaCoV/Wuhan/IPBCAMS-WH-01/2019, complete genome	9000024	leaf	29899	9	8	0.0
+MT019531.1 Severe acute respiratory syndrome coronavirus 2 isolate BetaCoV/Wuhan/IPBCAMS-WH-03/2019, complete genome	9000026	leaf	29899	1	0	0.0
+MT019533.1 Severe acute respiratory syndrome coronavirus 2 isolate BetaCoV/Wuhan/IPBCAMS-WH-05/2020, complete genome	9000028	leaf	29883	1	1	0.0
+MT020781.2 Severe acute respiratory syndrome coronavirus 2 isolate nCoV-FIN-29-Jan-2020, partial genome	9000029	leaf	29806	16	12	0.0
+MT027062.1 Severe acute respiratory syndrome coronavirus 2 isolate 2019-nCoV/USA-CA3/2020, complete genome	9000032	leaf	29882	15	0	0.0
+MT027063.1 Severe acute respiratory syndrome coronavirus 2 isolate 2019-nCoV/USA-CA4/2020, complete genome	9000033	leaf	29882	15	0	0.0
+MT027064.1 Severe acute respiratory syndrome coronavirus 2 isolate 2019-nCoV/USA-CA5/2020, complete genome	9000034	leaf	29882	3	1	0.0
+MT039873.1 Severe acute respiratory syndrome coronavirus 2 isolate HZ-1, complete genome	9000035	leaf	29833	14	0	0.0
+MT039887.1 Severe acute respiratory syndrome coronavirus 2 isolate 2019-nCoV/USA-WI1/2020, complete genome	9000036	leaf	29879	7	4	0.0
+MT039888.1 Severe acute respiratory syndrome coronavirus 2 isolate 2019-nCoV/USA-MA1/2020, complete genome	9000037	leaf	29882	52	33	0.0
+MT039890.1 Severe acute respiratory syndrome coronavirus 2 isolate SNU01, complete genome	9000038	leaf	29903	42	41	0.00308095
+MT044257.1 Severe acute respiratory syndrome coronavirus 2 isolate 2019-nCoV/USA-IL2/2020, complete genome	9000039	leaf	29882	27	7	0.0
+MT044258.1 Severe acute respiratory syndrome coronavirus 2 isolate 2019-nCoV/USA-CA6/2020, complete genome	9000040	leaf	29858	9	5	0.0
+MT049951.1 Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/Yunnan-01/human/2020/CHN, complete genome	9000041	leaf	29903	6	6	0.0
+MT050493.1 Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/166/human/2020/IND, complete genome	9000042	leaf	29851	18	10	0.0
+MT066156.1 Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/INMI1/human/2020/ITA, complete genome	9000043	leaf	29867	13	13	0.0
+MT066176.1 Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/NTU02/2020/TWN, complete genome	9000045	leaf	29870	6	5	0.0
+MT072688.1 Severe acute respiratory syndrome coronavirus 2 isolate SARS0CoV-2/61-TW/human/2020/ NPL, complete genome	9000046	leaf	29811	14	1	0.0
+MT093571.1 Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/01/human/2020/SWE, complete genome	9000047	leaf	29886	20	17	0.0
+MT093631.2 Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/WH-09/human/2020/CHN, complete genome	9000048	leaf	29860	3	3	0.0
+MT106052.1 Severe acute respiratory syndrome coronavirus 2 isolate 2019-nCoV/USA-CA7/2020, complete genome	9000049	leaf	29882	48	23	0.0
+MT106053.1 Severe acute respiratory syndrome coronavirus 2 isolate 2019-nCoV/USA-CA8/2020, complete genome	9000050	leaf	29882	1	0	0.0
+MT106054.1 Severe acute respiratory syndrome coronavirus 2 isolate 2019-nCoV/USA-TX1/2020, complete genome	9000051	leaf	29882	13	7	0.0
+MT118835.1 Severe acute respiratory syndrome coronavirus 2 isolate 2019-nCoV/USA-CA9/2020, complete genome	9000052	leaf	29882	1	1	0.0
+MT121215.1 Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/SH01/human/2020/CHN, complete genome	9000053	leaf	29945	2806	2323	0.0
+MT123290.1 Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/IQTC01/human/2020/CHN, complete genome	9000054	leaf	29891	3	0	0.0
+MT123291.2 Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/IQTC02/human/2020/CHN, complete genome	9000055	leaf	29882	20	2	0.0
+MT123292.2 Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/IQTC04/human/2020/CHN, complete genome	9000056	leaf	29923	28	28	0.00307889
+MT123293.2 Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/IQTC03/human/2020/CHN, complete genome	9000057	leaf	29871	20	1	0.0
+MT126808.1 Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/SP02/human/2020/BRA, complete genome	9000058	leaf	29876	29	29	0.0
+MT135043.1 Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/233/human/2020/CHN, complete genome	9000061	leaf	29903	3	3	0.0
+MT135044.1 Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/235/human/2020/CHN, complete genome	9000062	leaf	29903	19	4	0.0
+MT159705.1 Severe acute respiratory syndrome coronavirus 2 isolate 2019-nCoV/USA-CruiseA-7/2020, complete genome	9000064	leaf	29882	11	11	0.0
+MT159706.1 Severe acute respiratory syndrome coronavirus 2 isolate 2019-nCoV/USA-CruiseA-8/2020, complete genome	9000065	leaf	29882	1	0	0.0
+MT159707.1 Severe acute respiratory syndrome coronavirus 2 isolate 2019-nCoV/USA-CruiseA-10/2020, complete genome	9000066	leaf	29882	3	3	0.0
+MT159708.1 Severe acute respiratory syndrome coronavirus 2 isolate 2019-nCoV/USA-CruiseA-11/2020, complete genome	9000067	leaf	29882	2	2	0.0
+MT159709.1 Severe acute respiratory syndrome coronavirus 2 isolate 2019-nCoV/USA-CruiseA-12/2020, complete genome	9000068	leaf	29882	12	0	0.0
+MT159715.1 Severe acute respiratory syndrome coronavirus 2 isolate 2019-nCoV/USA-CruiseA-17/2020, complete genome	9000074	leaf	29882	13	13	0.0
+MT159716.1 Severe acute respiratory syndrome coronavirus 2 isolate 2019-nCoV/USA-CruiseA-18/2020, complete genome	9000075	leaf	29867	8	4	0.0
+MT159717.1 Severe acute respiratory syndrome coronavirus 2 isolate 2019-nCoV/USA-CruiseA-1/2020, complete genome	9000076	leaf	29882	15	1	0.0
+MT159718.1 Severe acute respiratory syndrome coronavirus 2 isolate 2019-nCoV/USA-CruiseA-2/2020, complete genome	9000077	leaf	29882	83	61	0.0
+MT159720.1 Severe acute respiratory syndrome coronavirus 2 isolate 2019-nCoV/USA-CruiseA-4/2020, complete genome	9000079	leaf	29882	74	62	0.0
+MT163716.1 Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/WA3-UW1/human/2020/USA, complete genome	9000082	leaf	29903	21	9	0.0
+MT163717.1 Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/WA4-UW2/human/2020/USA, complete genome	9000083	leaf	29897	26	10	0.0
+MT163719.1 Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/WA7-UW4/human/2020/USA, complete genome	9000085	leaf	29903	1	1	0.0
+MT163720.1 Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/WA8-UW5/human/2020/USA, partial genome	9000086	leaf	29732	4	4	0.0
+MT163721.1 Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/WA9-UW6/human/2020/USA, partial genome	9000087	leaf	29325	21	12	0.0
+MT184908.1 Severe acute respiratory syndrome coronavirus 2 isolate 2019-nCoV/USA-CruiseA-21/2020, complete genome	9000089	leaf	29880	40	24	0.0
+MT184910.1 Severe acute respiratory syndrome coronavirus 2 isolate 2019-nCoV/USA-CruiseA-23/2020, complete genome	9000091	leaf	29882	33	5	0.0
+MT184911.1 Severe acute respiratory syndrome coronavirus 2 isolate 2019-nCoV/USA-CruiseA-24/2020, complete genome	9000092	leaf	29882	29	15	0.0
+MT184913.1 Severe acute respiratory syndrome coronavirus 2 isolate 2019-nCoV/USA-CruiseA-26/2020, complete genome	9000094	leaf	29882	29	28	0.0
+MT188339.1 Severe acute respiratory syndrome coronavirus 2 isolate USA/MN3-MDH3/2020, complete genome	9000095	leaf	29783	20	6	0.0
+MT188340.1 Severe acute respiratory syndrome coronavirus 2 isolate USA/MN2-MDH2/2020, complete genome	9000096	leaf	29845	22	3	0.0
+MT188341.1 Severe acute respiratory syndrome coronavirus 2 isolate USA/MN1-MDH1/2020, complete genome	9000097	leaf	29835	18	4	0.0
+MT192765.1 Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/PC00101P/human/2020/USA, complete genome	9000099	leaf	29829	28	4	0.0
+MT192772.1 Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/nCoV-19-01S/human/2020/VNM, complete genome	9000100	leaf	29891	1	0	0.0
+MT198651.1 Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/Valencia002/human/2020/ESP, partial genome	9000102	leaf	29611	137	59	0.0
+MT198652.1 Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/Valencia003/human/2020/ESP, partial genome	9000103	leaf	29302	121	88	0.0
+MT198653.1 Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/Valencia001/human/2020/ESP, partial genome	9000104	leaf	29611	69	3	0.0

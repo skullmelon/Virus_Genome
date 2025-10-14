@@ -1,0 +1,12 @@
+name	taxID	taxRank	genomeSize	numReads	numUniqueReads	abundance
+Homo sapiens	9606	species	3272089205	6946560	1263884	2.93677e-05
+Severe acute respiratory syndrome-related coronavirus	694009	species	29856	61127	61115	0.626417
+Melon chlorotic mosaic virus	180399	species	5235	31925	31907	0.0
+Proteus phage VB_PmiS-Isfahan	1969841	species	54836	62547	3254	0.361173
+MT121215.1 Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/SH01/human/2020/CHN, complete genome	9000053	leaf	29945	2806	2323	0.0
+Tokyovirus A1	1826170	species	372707	1729	1728	0.0
+LR757997.1 Wuhan seafood market pneumonia virus genome assembly, chromosome: whole_genome	9000005	leaf	29388	433	411	0.00313494
+Choristoneura fumiferana granulovirus	56947	species	104710	604	355	0.0
+Synechococcus phage S-CAM3	1883366	species	198190	243	212	0.0
+Synechococcus phage S-RSM4	555387	species	194454	214	182	0.0
+Cronobacter phage vB_CsaM_GAP32	1141136	species	358663	112	100	0.0
